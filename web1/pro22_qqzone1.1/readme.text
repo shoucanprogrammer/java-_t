@@ -1,0 +1,43 @@
+数据库读出的名字与类属性对应不上  采用别名
+rsmd.getColumnName()   仅仅返回胡列名
+rsmd.getColumnLabel() 可以返回别名
+
+
+
+    数据库读出的数据类与属性不匹配
+    需要用类包装例如读出来是id    但是我们想要一个用户类的对象
+  if(field!=null){
+            //获取当前字段的类型名称
+            String typename = field.getType().getName();
+            //判断如果是自定义类型，则需要调用这个自定义类的带一个参数的构造方法，创建出这个自定义类的实例对象，然后将实例对象赋值给这个属性
+            if (isMyType(typename)){
+                //假设typeName是"com.atguigu.qqzone.pojo.UserBaic"
+                Class typeNameClass = Class.forName(typename);
+                Constructor constructor = typeNameClass.getDeclaredConstructor(java.lang.Integer.class);
+                propertyValue = constructor.newInstance(propertyValue);
+            }
+            field.setAccessible(true);
+            field.set(obj,propertyValue);
+left.html页面没有样式，同时数据也不展示，原因是：我们直接取请求的静态页面资源，那么并没执行super.processTemplate(),也就是thymeleaf没有起作用
+（之前表单也是这个原因    ）
+    解决方法：
+    新增PageController，添加page方法：
+    public String page(String page){
+        return page;
+    }
+    目的是执行super.processTemplate()方法，让thymeleaf生效
+
+
+    隐藏层发出方法指令
+    <input type="hidden" name="operate" value="login"/>
+    超链接包含方法指令
+     <a th:href="@{|/user.do?operate=friend&id=${session.userBasic.id}|}" target="_top">返回自己的空间!</a>
+
+
+5. 删除回复
+   1) 如果回复有关联的主人回复，需要先删除主人回复
+   2) 删除回复
+   Cannot delete or update a parent row: a foreign key constraint fails
+   (`qqzonedb`.`t_host_reply`, CONSTRAINT `FK_host_reply` FOREIGN KEY (`reply`) REFERENCES `t_reply` (`id`))
+    我们在删除回复表记录时，发现删除失败，原因是：在主人回复表中仍然有记录引用待删除的回复这条记录
+    如果需要删除主表数据，需要首先删除子表数据

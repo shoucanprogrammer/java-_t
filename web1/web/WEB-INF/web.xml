@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+    <servlet>
+        <servlet-name>servlets.AddServlet</servlet-name>
+        <servlet-class>servlets.AddServlet</servlet-class>
+    </servlet>>
+    <servlet-mapping>
+        <servlet-name>servlets.AddServlet</servlet-name>
+        <url-pattern>/add</url-pattern>
+    </servlet-mapping>
+
+    <!--
+    1.用户发请求
+    2.项目中，web.xml中找到url-pattern = /add    ->第12行
+    3.找到11行得servlet-name = servlets.AddServlet
+    4.找和servlet-mapping中servlet-name一致得servlet  找到第7哈根
+    5 找第八行得servlet-class ->servlets.servlets.AddServlet
+    6用户发送得是post请求，因此tomcat会执行AddServlelt中得doFost方法
+    -->
+</web-app>

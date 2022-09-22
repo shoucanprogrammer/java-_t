@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<beans>
+    <bean id="fruitDAO" class="com.atguigu.fruit.dao.impl.FruitDAOImpl"/>
+
+    <bean id="fruitService" class="com.atguigu.fruit.service.impl.FruitServceimpl">
+            <!--property标签用来表示属性：name表示属性名：ref表示引用其他bean的id值        -->
+            <property name="fruitDAO" ref="fruitDAO"/>
+    </bean>
+<!--    这个bean标签的作用是 将来servletpath中涉及对应的是fruit，那么就要FruitController这个类来处理-->
+    <bean id="fruit" class="com.atguigu.fruit.controllers.FruitController">
+        <property name="fruitService" ref="fruitService"/>
+    </bean>
+</beans>
+

@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="pro11-fruit1.6-thymeleaf:Web2 exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/pro11_fruit1_6_thymeleaf_Web2_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="pro11-fruit1.6-thymeleaf" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
