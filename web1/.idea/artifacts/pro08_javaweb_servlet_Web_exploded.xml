@@ -6,6 +6,10 @@
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="pro08-javaweb-servlet" />
+          <element id="module-output" name="tomcat" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-8.0.30" />
         </element>
       </element>
     </root>

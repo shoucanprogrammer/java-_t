@@ -18,6 +18,7 @@
           <element id="library" level="project" name="slf4j-api-1.7.25" />
           <element id="library" level="project" name="slf4j-log4j12-1.7.25" />
           <element id="library" level="project" name="thymeleaf-3.0.14.RELEASE" />
+          <element id="library" level="module" name="testng" module-name="pro22_qqzone1.1" />
         </element>
       </element>
     </root>

@@ -15,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/pro20-fruit2.3-mvc-transaction.iml" filepath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/pro20-fruit2.3-mvc-transaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/pro21_qqzone1.0/pro21_qqzone1.0.iml" filepath="$PROJECT_DIR$/pro21_qqzone1.0/pro21_qqzone1.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/pro22_qqzone1.1/pro22_qqzone1.1.iml" filepath="$PROJECT_DIR$/pro22_qqzone1.1/pro22_qqzone1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro24-book/pro24-book.iml" filepath="$PROJECT_DIR$/pro24-book/pro24-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro25-book/pro25-book.iml" filepath="$PROJECT_DIR$/pro25-book/pro25-book.iml" />
       <module fileurl="file://$PROJECT_DIR$/tomcat.iml" filepath="$PROJECT_DIR$/tomcat.iml" />
     </modules>
   </component>

@@ -17,6 +17,7 @@
           <element id="library" level="project" name="unbescape-1.1.6.RELEASE" />
           <element id="library" level="module" name="JUnit4" module-name="tomcat" />
           <element id="library" level="project" name="slf4j-api-1.7.25" />
+          <element id="library" level="project" name="log4j-1.2.17" />
         </element>
       </element>
     </root>

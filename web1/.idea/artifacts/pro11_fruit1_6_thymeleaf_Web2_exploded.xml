@@ -6,6 +6,10 @@
         <element id="directory" name="classes">
           <element id="module-output" name="pro11-fruit1.6-thymeleaf" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="thymeleaf-3.0.14.RELEASE" />
+          <element id="library" level="project" name="javassist-3.20.0-GA" />
+        </element>
       </element>
     </root>
   </artifact>

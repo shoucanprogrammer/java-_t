@@ -1,0 +1,3 @@
+  使用
+   对键值将进行排序TreeMap<Integer, Integer> ClosetMap = new TreeMap<>();
+   取最小的键值就是最接近的数
