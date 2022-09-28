@@ -1,9 +1,8 @@
 package s28_strStr;
 
-import org.testng.annotations.Test;
+import org.junit.Test;
 
 import java.util.Arrays;
-
 public class Solution {
     @Test
     public void test(){

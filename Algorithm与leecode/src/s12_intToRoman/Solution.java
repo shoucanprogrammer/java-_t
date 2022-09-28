@@ -1,7 +1,6 @@
 package s12_intToRoman;
 
-import org.testng.annotations.Test;
-
+import org.junit.Test;
 public class Solution {
     @Test
 

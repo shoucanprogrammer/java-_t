@@ -1,9 +1,6 @@
 package s24_swapPairs;
 
-import org.testng.annotations.Test;
-
-import java.util.List;
-
+import org.junit.Test;
 public class Solution {
     @Test
     public void test(){

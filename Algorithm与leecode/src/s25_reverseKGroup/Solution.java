@@ -1,7 +1,6 @@
 package s25_reverseKGroup;
 
-import org.testng.annotations.Test;
-
+import org.junit.Test;
 public class Solution {
     @Test
     public void test(){

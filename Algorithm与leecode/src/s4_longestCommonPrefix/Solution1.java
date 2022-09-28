@@ -1,7 +1,6 @@
 package s4_longestCommonPrefix;
 
-import org.testng.annotations.Test;
-
+import org.junit.Test;
 public class Solution1 {
     @Test
     public void test2(){

@@ -1,7 +1,6 @@
 package s27_removeElement;
 
-import org.testng.annotations.Test;
-
+import org.junit.Test;
 public class Solution {
     @Test
     public void test(){

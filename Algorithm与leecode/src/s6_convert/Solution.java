@@ -1,10 +1,8 @@
 package s6_convert;
 
-import org.testng.annotations.Test;
+import org.junit.Test;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
-
 public class Solution {
     @Test
     public void  test(){

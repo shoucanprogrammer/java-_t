@@ -1,7 +1,6 @@
 package s33_search;
 
-import org.testng.annotations.Test;
-
+import org.junit.Test;
 public class Solution {
 
     @Test

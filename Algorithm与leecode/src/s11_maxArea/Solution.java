@@ -1,9 +1,10 @@
 package s11_maxArea;
 
-import org.testng.annotations.Test;
+
+import org.junit.Test;
 
 public class Solution {
-    @Test
+   @Test
     public void test(){
         maxArea(new int[]{1,8,6,2,5,4,8,3,7});
     }

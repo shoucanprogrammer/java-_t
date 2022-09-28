@@ -1,7 +1,6 @@
 package s19_removeNthFromEnd;
 
-import org.testng.annotations.Test;
-
+import org.junit.Test;
 class ListNode {
       int val;
       ListNode next;

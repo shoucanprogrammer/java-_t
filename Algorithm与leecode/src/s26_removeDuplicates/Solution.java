@@ -1,10 +1,6 @@
 package s26_removeDuplicates;
 
-import org.testng.annotations.Test;
-import org.w3c.dom.Node;
-
-import java.util.Arrays;
-
+import org.junit.Test;
 public class Solution {
     @Test
     public void test(){

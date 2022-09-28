@@ -1,8 +1,9 @@
 package s16_threeSumClosest;
-import org.testng.annotations.Test;
+
+import org.junit.Test;
+
 import java.util.Arrays;
 import java.util.TreeMap;
-
 
 public class Solution {
     @Test

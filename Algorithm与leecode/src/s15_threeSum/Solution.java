@@ -1,11 +1,10 @@
 package s15_threeSum;
 
-import org.testng.annotations.Test;
+import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
 public class Solution {
     @Test
     public void test() {

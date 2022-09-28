@@ -1,6 +1,6 @@
 package s4_findMedianSortedArrays;
 
-import org.testng.annotations.Test;
+import org.junit.Test;
 
 import java.util.LinkedList;
 

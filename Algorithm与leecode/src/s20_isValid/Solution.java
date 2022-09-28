@@ -1,9 +1,8 @@
 package s20_isValid;
 
-import org.testng.annotations.Test;
+import org.junit.Test;
 
 import java.util.Stack;
-
 public class Solution {
     @Test
     public void test(){

@@ -1,6 +1,6 @@
 package s1_twonumberSum;
 
-import org.testng.annotations.Test;
+import org.junit.Test;
 
 import java.util.HashMap;
 import java.util.Map;

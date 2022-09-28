@@ -17,6 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/pro22_qqzone1.1/pro22_qqzone1.1.iml" filepath="$PROJECT_DIR$/pro22_qqzone1.1/pro22_qqzone1.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/pro24-book/pro24-book.iml" filepath="$PROJECT_DIR$/pro24-book/pro24-book.iml" />
       <module fileurl="file://$PROJECT_DIR$/pro25-book/pro25-book.iml" filepath="$PROJECT_DIR$/pro25-book/pro25-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro26-cookoe-kaptcha-js/pro26-cookoe-kaptcha-js.iml" filepath="$PROJECT_DIR$/pro26-cookoe-kaptcha-js/pro26-cookoe-kaptcha-js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro27-book-regist-cart/pro27-book-regist-cart.iml" filepath="$PROJECT_DIR$/pro27-book-regist-cart/pro27-book-regist-cart.iml" />
       <module fileurl="file://$PROJECT_DIR$/tomcat.iml" filepath="$PROJECT_DIR$/tomcat.iml" />
     </modules>
   </component>
