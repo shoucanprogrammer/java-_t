@@ -19,6 +19,8 @@
       <module fileurl="file://$PROJECT_DIR$/pro25-book/pro25-book.iml" filepath="$PROJECT_DIR$/pro25-book/pro25-book.iml" />
       <module fileurl="file://$PROJECT_DIR$/pro26-cookoe-kaptcha-js/pro26-cookoe-kaptcha-js.iml" filepath="$PROJECT_DIR$/pro26-cookoe-kaptcha-js/pro26-cookoe-kaptcha-js.iml" />
       <module fileurl="file://$PROJECT_DIR$/pro27-book-regist-cart/pro27-book-regist-cart.iml" filepath="$PROJECT_DIR$/pro27-book-regist-cart/pro27-book-regist-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro28-vue-axios-json/pro28-vue-axios-json.iml" filepath="$PROJECT_DIR$/pro28-vue-axios-json/pro28-vue-axios-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro29-book-cart-vue-axios/pro29-book-cart-vue-axios.iml" filepath="$PROJECT_DIR$/pro29-book-cart-vue-axios/pro29-book-cart-vue-axios.iml" />
       <module fileurl="file://$PROJECT_DIR$/tomcat.iml" filepath="$PROJECT_DIR$/tomcat.iml" />
     </modules>
   </component>

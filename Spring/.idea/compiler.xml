@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Spring" target="8" />
+      <module name="springdemo03" target="8" />
+      <module name="Springdemo05" target="8" />
+      <module name="springdemo06" target="8" />
+      <module name="Springdemo07" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

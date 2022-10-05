@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!--    内部bean-->
+    <bean id="emp" class="spring5.bean.Emp">
+        <property name="ename" value="lucy"></property>
+        <property name="gender" value="female"></property>
+<!--        设置对象类型属性-->
+        <property name="dept">
+            <bean id="dept" class="spring5.bean.Dept">
+                <property name="dname" value="ddddd"></property>
+            </bean>
+        </property>
+    </bean>
+</beans>

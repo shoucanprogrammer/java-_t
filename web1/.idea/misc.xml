@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/pro08-javaweb-servlet/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro09-fruit1.4-thymeleaf/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro11-fruit1.6-thymeleaf/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro11-fruit1.6-thymeleaf/web/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro11-fruit1.6-thymeleaf/web2/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro12-fruit1.7-thymeleaf/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro13-fruit1.8-mvc/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro14-fruit1.9-reflect/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro16-fruit2.1-controller/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro17-fruit2.2-mvc-service-ioc/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro18-servlet-api/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro19-filter-listener/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro21_qqzone1.0/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro22_qqzone1.1/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro24-book/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro25-book/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro26-cookoe-kaptcha-js/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/pro27-book-regist-cart/web/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/test1/web/WEB-INF/web.xml" />
-    <file type="web" url="file://$PROJECT_DIR$/web/WEB-INF/web.xml" />
+    <type id="web" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

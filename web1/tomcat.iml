@@ -23,5 +23,6 @@
     <orderEntry type="library" name="log4j-1.2.17" level="project" />
     <orderEntry type="library" scope="TEST" name="slf4j-log4j12-1.7.25" level="project" />
     <orderEntry type="library" name="kaptcha-2.3.2" level="project" />
+    <orderEntry type="library" name="gson-2.2.4" level="project" />
   </component>
 </module>

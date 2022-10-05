@@ -7,7 +7,7 @@ public class User {
     private String uname;
     private String pwd;
     private String email;
-    private Integer role;
+    private Integer role = 0;
     private Cart cart;
     private List<OrderBean> orderList;   //1:N
 
@@ -15,6 +15,13 @@ public class User {
 
     public User(Integer id) {
         this.id = id;
+    }
+
+    public User(String uname, String pwd, String email, Integer role) {
+        this.uname = uname;
+        this.pwd = pwd;
+        this.email = email;
+        this.role = role;
     }
 
     public Integer getId() {

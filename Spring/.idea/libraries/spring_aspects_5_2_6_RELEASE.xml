@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-aspects-5.2.6.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-aspects-5.2.6.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

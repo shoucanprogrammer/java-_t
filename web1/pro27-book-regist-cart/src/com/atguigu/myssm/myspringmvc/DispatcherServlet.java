@@ -9,8 +9,11 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.lang.reflect.Method;
 import java.lang.reflect.Parameter;
+
+import static java.lang.System.out;
 
 @WebServlet("*.do")
 public class DispatcherServlet extends ViewBaseServlet{
@@ -40,7 +43,7 @@ public class DispatcherServlet extends ViewBaseServlet{
         servletPath = servletPath.substring(1);
         int lasDotIndex = servletPath.lastIndexOf(".do");
         servletPath = servletPath.substring(0,lasDotIndex);
-        System.out.println(servletPath);
+        out.println(servletPath);
         Object controllerBeanObj = beanFactory.getBean(servletPath);
         String operate = req.getParameter("operate");
         if (StringUtil.isEmpty(operate)){
@@ -86,7 +89,12 @@ public class DispatcherServlet extends ViewBaseServlet{
                     if (methodReturnStr.startsWith("redirect")){// 比如：redire：fruit.do
                         String redirectStr = methodReturnStr.substring("redirect:".length());
                         resp.sendRedirect(redirectStr);
-                    }else {
+                    }else if (methodReturnStr.startsWith("json:")){
+                        String jsonStr = methodReturnStr.substring("json:".length());
+                        PrintWriter out = resp.getWriter();
+                        out.print(jsonStr);
+                        out.flush();
+                    } else {
                         super.processTemplate(methodReturnStr,req,resp);//比如:"edit"
                     }
                 }

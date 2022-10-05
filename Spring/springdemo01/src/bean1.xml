@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!-- 1   配置user对象创建-->
+<!--    <bean id="user" class="spring5.User"></bean>-->
+
+<!--    2 set方法注入属性-->
+    <bean id = "book" class="spring5.Book">
+    <!--  使用property完成属性注入
+    name:类里面属性名称
+    value：向属性注入值-->
+        <property name="bname" value="易筋经"></property>
+        <property name="bauthor" value="达摩老祖"></property>
+<!--        <property name="address">-->
+<!--                <null/>-->
+<!--        </property>-->
+        <property name="address">
+            <value><![CDATA[<<南京>>]]></value>
+        </property>
+     </bean>
+
+<!--    <bean id="orders" class="spring5.Orders">-->
+<!--        <constructor-arg name="oname" value="adb"></constructor-arg>-->
+<!--        <constructor-arg name="address" value="hhh"></constructor-arg>-->
+
+<!--    </bean>-->
+</beans>
