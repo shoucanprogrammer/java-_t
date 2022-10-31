@@ -1,0 +1,9 @@
+mybatis\mapper\DeptMapper.class
+mybatis\mapper\EmpMapper.class
+mybatis\utils\SqlSessionUtil.class
+mybatis\pojo\Dept.class
+mybatis\mapper\UserMapper.class
+mybatis\mapper\SpecialSQLMapper.class
+mybatis\pojo\Emp.class
+mybatis\mapper\SelectMapper.class
+mybatis\pojo\User.class

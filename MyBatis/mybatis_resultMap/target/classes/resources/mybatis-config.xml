@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <properties resource="jdbc.properties"/>
+    <typeAliases>
+        <!--        <typeAlias type="mybatis.pojo.User" alias="User"></typeAlias>-->
+        <package name="mybatis.pojo"/>
+    </typeAliases>
+
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="${jdbc.driver}"/>
+                <property name="url" value="${jdbc.url}"/>
+                <property name="username" value="${jdbc.username}"/>
+                <property name="password" value="${jdbc.password}"/>
+            </dataSource>
+        </environment>
+
+    </environments>
+    <!--引入mybatis的映射文件-->
+    <mappers>
+        <!--        以包的方式引入映射文件，但必须满足两个条件-->
+        <!--        1，mapper接口和映射文件所在的包必须一致-->
+        <!--        2，mapper接口的名字和映射文件的名字必须一致-->
+        <package name="mybatis.mapper"/>
+        <!--        <mapper resource="mappers/UserMapper.xml"/>-->
+    </mappers>
+</configuration>

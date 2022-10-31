@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--        mapper接口和映射文件要保证两个一致：-->
+<!--        1. mapper接口的全类名和映射文件的namespace一致-->
+<!--        2. mapper接口中的方法名和映射文件的sql的id保持一致-->
+<mapper namespace="mybatis.mapper.UserMapper">
+        <select id="getUserByUsername" resultType="User">
+                select * from t_user where username = #{username}
+        </select>
+        <select id="checkLogin"  resultType="User">
+                select * from t_user where username =#{arg0} and password =#{arg1 }
+        </select>
+        <select id="checkLoginByMap" resultType="User">
+                select * from t_user where username =#{username} and password =#{password}
+        </select>
+        <select id="insertUser" >
+                insert into t_user values (null,#{username},#{password},#{age},#{gender},#{email})
+        </select>
+
+        <select id="checkLoginByParam" resultType="User">
+                select * from t_user where username= #{username} and password =#{password}
+        </select>
+</mapper>

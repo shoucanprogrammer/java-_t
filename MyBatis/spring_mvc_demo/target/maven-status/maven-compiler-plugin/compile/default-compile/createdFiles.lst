@@ -1,0 +1,6 @@
+controller\TestParamController.class
+controller\TestViewController.class
+controller\ProtalController.class
+controller\TestScopeController.class
+controller\TestRequestMappingController.class
+pojo\User.class

@@ -1,0 +1,3 @@
+mybatis\utils\SqlSessionUtil.class
+mybatis\mapper\CacheMapper.class
+mybatis\pojo\Emp.class

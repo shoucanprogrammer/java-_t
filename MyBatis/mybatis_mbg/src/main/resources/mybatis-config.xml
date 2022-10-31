@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+<!--    Mybatis核心配置文件中的标签必须按照指定的顺序-->
+<!--    (properties?,settings?,typeAliases?,typeHandlers?-->
+<!--    ,objectFactory?,objectWrapperFactory?,reflectorFactory?-->
+<!--    ,plugins?,environments?,databaseIdProvider?,mappers?)-->
+
+    <properties resource="jdbc.properties"/>
+    <typeAliases>
+<!--        <typeAlias type="mybatis.pojo.User" alias="User"></typeAlias>-->
+        <package name="mybatis.pojo"/>
+    </typeAliases>
+    <plugins>
+        <plugin interceptor="com.github.pagehelper.PageInterceptor"></plugin>
+    </plugins>
+
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="${jdbc.driver}"/>
+                <property name="url" value="${jdbc.url}"/>
+                <property name="username" value="${jdbc.username}"/>
+                <property name="password" value="${jdbc.password}"/>
+            </dataSource>
+        </environment>
+        <environment id="test">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="com.mysql.cj.jdbc.Driver"/>
+                <property name="url" value="jdbc:mysql://localhost:3306/ssm?serverTimezone=UTC"/>
+                <property name="username" value="root"/>
+                <property name="password" value="123456"/>
+            </dataSource>
+        </environment>
+    </environments>
+    <!--引入mybatis的映射文件-->
+    <mappers>
+<!--        以包的方式引入映射文件，但必须满足两个条件-->
+<!--        1，mapper接口和映射文件所在的包必须一致-->
+<!--        2，mapper接口的名字和映射文件的名字必须一致-->
+        <package name="mybatis.mapper"/>
+<!--        <mapper resource="mappers/UserMapper.xml"/>-->
+    </mappers>
+</configuration>

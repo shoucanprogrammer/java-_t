@@ -1,0 +1,13 @@
+mybatis\mapper\DeptMapper.class
+mybatis\mapper\EmpMapper.class
+mybatis\pojo\DeptExample$GeneratedCriteria.class
+mybatis\pojo\DeptExample$Criterion.class
+mybatis\pojo\EmpExample$Criteria.class
+mybatis\utils\SqlSessionUtil.class
+mybatis\pojo\EmpExample.class
+mybatis\pojo\Dept.class
+mybatis\pojo\EmpExample$Criterion.class
+mybatis\pojo\DeptExample.class
+mybatis\pojo\DeptExample$Criteria.class
+mybatis\pojo\Emp.class
+mybatis\pojo\EmpExample$GeneratedCriteria.class
