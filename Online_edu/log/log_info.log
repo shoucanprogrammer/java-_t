@@ -1,0 +1,74 @@
+2022-11-15 10:28:19.823 [main] INFO  com.atguigu.oss.OssApplication - Starting OssApplication on DESKTOP-68DULHG with PID 1768 (started by tllll in G:\OneDrive - hdu.edu.cn\JAVA\Online_edu)
+2022-11-15 10:28:19.826 [main] INFO  com.atguigu.oss.OssApplication - The following profiles are active: dev
+2022-11-15 10:28:20.116 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-11-15 10:28:20.118 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2022-11-15 10:28:20.134 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7ms. Found 0 repository interfaces.
+2022-11-15 10:28:20.371 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8002 (http)
+2022-11-15 10:28:20.377 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8002"]
+2022-11-15 10:28:20.377 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-11-15 10:28:20.377 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2022-11-15 10:28:20.434 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-11-15 10:28:20.434 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 587 ms
+2022-11-15 10:28:20.545 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-11-15 10:28:20.774 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8002"]
+2022-11-15 10:28:20.788 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8002 (http) with context path ''
+2022-11-15 10:28:20.789 [main] INFO  com.atguigu.oss.OssApplication - Started OssApplication in 1.22 seconds (JVM running for 1.572)
+2022-11-15 10:48:49.052 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-11-15 10:48:53.738 [main] INFO  com.atguigu.oss.OssApplication - Starting OssApplication on DESKTOP-68DULHG with PID 13440 (started by tllll in G:\OneDrive - hdu.edu.cn\JAVA\Online_edu)
+2022-11-15 10:48:53.740 [main] INFO  com.atguigu.oss.OssApplication - The following profiles are active: dev
+2022-11-15 10:48:54.142 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-11-15 10:48:54.143 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2022-11-15 10:48:54.159 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8ms. Found 0 repository interfaces.
+2022-11-15 10:48:54.425 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8002 (http)
+2022-11-15 10:48:54.429 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8002"]
+2022-11-15 10:48:54.430 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-11-15 10:48:54.430 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2022-11-15 10:48:54.478 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-11-15 10:48:54.479 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 700 ms
+2022-11-15 10:52:10.033 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-11-15 10:52:10.242 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8002"]
+2022-11-15 10:52:10.255 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8002 (http) with context path ''
+2022-11-15 10:52:10.257 [main] INFO  com.atguigu.oss.OssApplication - Started OssApplication in 196.766 seconds (JVM running for 197.556)
+2022-11-15 10:57:40.840 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-11-15 10:57:45.755 [main] INFO  com.atguigu.oss.OssApplication - Starting OssApplication on DESKTOP-68DULHG with PID 8496 (started by tllll in G:\OneDrive - hdu.edu.cn\JAVA\Online_edu)
+2022-11-15 10:57:45.756 [main] INFO  com.atguigu.oss.OssApplication - The following profiles are active: dev
+2022-11-15 10:57:46.159 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-11-15 10:57:46.161 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2022-11-15 10:57:46.187 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
+2022-11-15 10:57:46.467 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8002 (http)
+2022-11-15 10:57:46.472 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8002"]
+2022-11-15 10:57:46.473 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-11-15 10:57:46.473 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2022-11-15 10:57:46.525 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-11-15 10:57:46.526 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 750 ms
+2022-11-15 10:57:46.631 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-11-15 10:57:46.836 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8002"]
+2022-11-15 10:57:46.847 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8002 (http) with context path ''
+2022-11-15 10:57:46.848 [main] INFO  com.atguigu.oss.OssApplication - Started OssApplication in 1.297 seconds (JVM running for 1.581)
+2022-11-15 10:58:01.836 [http-nio-8002-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-11-15 10:58:01.837 [http-nio-8002-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-11-15 10:58:01.840 [http-nio-8002-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2022-11-15 10:58:25.513 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-11-15 10:58:30.398 [main] INFO  com.atguigu.oss.OssApplication - Starting OssApplication on DESKTOP-68DULHG with PID 3748 (started by tllll in G:\OneDrive - hdu.edu.cn\JAVA\Online_edu)
+2022-11-15 10:58:30.400 [main] INFO  com.atguigu.oss.OssApplication - The following profiles are active: dev
+2022-11-15 10:58:30.737 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-11-15 10:58:30.738 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2022-11-15 10:58:30.754 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2022-11-15 10:58:30.955 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8002 (http)
+2022-11-15 10:58:30.959 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8002"]
+2022-11-15 10:58:30.960 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-11-15 10:58:30.960 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2022-11-15 10:58:31.002 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-11-15 10:58:31.002 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 583 ms
+2022-11-15 10:58:31.193 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-15 10:58:31.241 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-11-15 10:58:31.484 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2022-11-15 10:58:31.493 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2022-11-15 10:58:31.518 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2022-11-15 10:58:31.616 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8002"]
+2022-11-15 10:58:31.631 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8002 (http) with context path ''
+2022-11-15 10:58:31.633 [main] INFO  com.atguigu.oss.OssApplication - Started OssApplication in 1.449 seconds (JVM running for 1.713)
+2022-11-15 10:58:33.259 [http-nio-8002-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-11-15 10:58:33.260 [http-nio-8002-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-11-15 10:58:33.263 [http-nio-8002-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2022-11-15 16:32:42.305 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

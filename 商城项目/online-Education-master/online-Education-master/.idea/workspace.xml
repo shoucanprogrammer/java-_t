@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="guli_parent" />
+      <module name="commont" />
+      <module name="service_base" />
+      <module name="comment_utils" />
+      <module name="service_vod" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0aae9b4f-c0f4-49f8-80eb-483a4867eca2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/src/main/java/com/atguigu/educms/service/impl/CrmBannerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_cms/src/main/java/com/atguigu/educms/service/impl/CrmBannerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduChapterServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduChapterServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduCourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduCourseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduSubjectServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduSubjectServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduTeacherServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduTeacherServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduVideoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduVideoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_msm/src/main/java/com/atguigu/msmservice/service/impl/MsmServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_msm/src/main/java/com/atguigu/msmservice/service/impl/MsmServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/atguigu/orderservice/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_order/src/main/java/com/atguigu/orderservice/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/src/main/java/com/atguigu/orderservice/service/impl/PayLogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_order/src/main/java/com/atguigu/orderservice/service/impl/PayLogServiceImpl.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/service/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_edu/target/" />
+    <ignored path="$PROJECT_DIR$/service/comment/target/" />
+    <ignored path="$PROJECT_DIR$/comment/target/" />
+    <ignored path="$PROJECT_DIR$/comment/service_base/target/" />
+    <ignored path="$PROJECT_DIR$/commont/target/" />
+    <ignored path="$PROJECT_DIR$/commont/service_base/target/" />
+    <ignored path="$PROJECT_DIR$/commont/comment_utils/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_oss/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_vod/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_cms/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_msm/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_ucenter/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_order/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_statistics/target/" />
+    <ignored path="$PROJECT_DIR$/canal_clientedu/target/" />
+    <ignored path="$PROJECT_DIR$/infrastructure/target/" />
+    <ignored path="$PROJECT_DIR$/infrastructure/api_gateway/target/" />
+    <ignored path="$PROJECT_DIR$/service/service_acl/target/" />
+    <ignored path="$PROJECT_DIR$/commont/spring_security/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="guli_parent" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-264">
+              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>poi</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/commont/spring_security/src/main/java/com/atguigu/security/security/UnauthorizedEntryPoint.java" />
+        <option value="$PROJECT_DIR$/commont/spring_security/src/main/java/com/atguigu/security/filter/TokenLoginFilter.java" />
+        <option value="$PROJECT_DIR$/commont/spring_security/src/main/java/com/atguigu/security/filter/TokenAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/service/service_acl/src/main/java/com/atguigu/aclservice/service/impl/PermissionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/commont/service_base/src/main/java/com/atguigu/servicebase/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/commont/spring_security/src/main/java/com/atguigu/security/config/TokenWebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/commont/spring_security/src/main/java/com/atguigu/serurity/filter/TokenAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/service/service_acl/src/main/java/com/atguigu/aclservice/service/impl/UserDetailsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/service/service_acl/src/main/java/com/atguigu/aclservice/entity/Role.java" />
+        <option value="$PROJECT_DIR$/service/service_acl/src/main/java/com/atguigu/aclservice/entity/User.java" />
+        <option value="$PROJECT_DIR$/service/service_acl/src/main/java/com/atguigu/aclservice/entity/UserRole.java" />
+        <option value="$PROJECT_DIR$/service/service_acl/src/main/java/com/atguigu/aclservice/entity/RolePermission.java" />
+        <option value="$PROJECT_DIR$/service/service_acl/src/main/java/com/atguigu/aclservice/entity/Permission.java" />
+        <option value="$PROJECT_DIR$/service/service_statistics/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service_statistics/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/service/service_statistics/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/infrastructure/api_gateway/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/service/service_ucenter/src/main/java/com/atguigu/educenter/controller/UcenterMemberController.java" />
+        <option value="$PROJECT_DIR$/service/service_ucenter/src/main/java/com/atguigu/educenter/controller/WxApiController.java" />
+        <option value="$PROJECT_DIR$/service/service_statistics/src/main/java/com/atguigu/staservice/controller/StatisticsDailyController.java" />
+        <option value="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/controller/OssController.java" />
+        <option value="$PROJECT_DIR$/service/service_order/src/main/java/com/atguigu/orderservice/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/service/service_order/src/main/java/com/atguigu/orderservice/controller/PayLogController.java" />
+        <option value="$PROJECT_DIR$/service/service_msm/src/main/java/com/atguigu/msmservice/controller/MsmController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduChapterController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduCourseController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduCourseDescriptionController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduLoginController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduTeacherController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduSubjectController.java" />
+        <option value="$PROJECT_DIR$/service/service_cms/src/main/java/com/atguigu/educms/controller/BannerAdminController.java" />
+        <option value="$PROJECT_DIR$/service/service_cms/src/main/java/com/atguigu/educms/controller/BannerFrontController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/front/CourseFrontController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/front/EduIndexController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/front/TeacherFrontController.java" />
+        <option value="$PROJECT_DIR$/commont/comment_utils/src/main/java/com/atguigu/commonutils/exceptionhandler/Globalexceptionhandler.java" />
+        <option value="$PROJECT_DIR$/commont/comment_utils/src/main/java/com/atguigu/commonutils/exceptionhandler/GuliException.java" />
+        <option value="$PROJECT_DIR$/service/service_ucenter/src/main/java/com/atguigu/educenter/service/impl/UcenterMemberServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_vod/src/main/java/com/atguigu/aliyunvod/controller/VodController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduVideoController.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/service/service_cms/src/main/java/com/atguigu/educms/service/impl/CrmBannerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduChapterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduCourseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduSubjectServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduTeacherServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduVideoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_msm/src/main/java/com/atguigu/msmservice/service/impl/MsmServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_order/src/main/java/com/atguigu/orderservice/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service_order/src/main/java/com/atguigu/orderservice/service/impl/PayLogServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\developer_tools\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="397" />
+    <option name="y" value="79" />
+    <option name="width" value="1431" />
+    <option name="height" value="839" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="guli_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowRun Dashboard.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\123\guli_parent" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.staservice" />
+      <recent name="com.atguigu.dome" />
+      <recent name="com.atguigu.commonutils.user" />
+      <recent name="com.atguigu.orderservice" />
+      <recent name="com.atguigu" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\123\guli_parent\commont\comment_utils\src\main\java\com\atguigu\commonutils" />
+      <recent name="D:\123\guli_parent\commont\spring_security\src\main\java\com\atguigu" />
+      <recent name="D:\123\guli_parent\commont\spring_security\src\main\java\com\atguigu\security" />
+      <recent name="D:\123\guli_parent\service\service_acl\src\main\java\com\atguigu\aclservice" />
+      <recent name="D:\123\guli_parent\infrastructure\api_gateway\src\main\java\com\atguigu\gateway" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.090655506" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.OssApplication">
+    <configuration name="CanalApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.canal.CanalApplication" />
+      <module name="canal_clientedu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.canal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api_gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="canal_clientedu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.canal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.canal.CanalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.educms.CmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_edu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.serviceedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.serviceedu.EduApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_msm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.msmservice.MsmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.orderservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.orderservice.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.oss.OssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAclApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_acl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.aclservice.ServiceAclApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.staservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.staservice.StaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_ucenter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.educenter.UcenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_vod" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.aliyunvod.VodApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CanalApplication" />
+      <item itemvalue="Spring Boot.CmsApplication" />
+      <item itemvalue="Spring Boot.MsmApplication" />
+      <item itemvalue="Spring Boot.OssApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.VodApplication" />
+      <item itemvalue="Spring Boot.UcenterApplication" />
+      <item itemvalue="Spring Boot.ServiceAclApplication" />
+      <item itemvalue="Spring Boot.StaApplication" />
+      <item itemvalue="Spring Boot.EduApplication" />
+      <item itemvalue="Spring Boot.CanalApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ApiGatewayApplication" />
+        <item itemvalue="Spring Boot.EduApplication" />
+        <item itemvalue="Spring Boot.StaApplication" />
+        <item itemvalue="Application.CanalApplication" />
+        <item itemvalue="Spring Boot.CanalApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0aae9b4f-c0f4-49f8-80eb-483a4867eca2" name="Default Changelist" comment="" />
+      <created>1596183440926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596183440926</updated>
+      <workItem from="1596183442474" duration="1851000" />
+      <workItem from="1596349753929" duration="20145000" />
+      <workItem from="1596418505739" duration="3562000" />
+      <workItem from="1596503808236" duration="10910000" />
+      <workItem from="1596591656212" duration="23026000" />
+      <workItem from="1596678309530" duration="17901000" />
+      <workItem from="1596719836192" duration="17000" />
+      <workItem from="1596720000059" duration="19000" />
+      <workItem from="1596720158934" duration="27000" />
+      <workItem from="1596724522919" duration="39000" />
+      <workItem from="1596727027498" duration="83000" />
+      <workItem from="1596728532225" duration="63000" />
+      <workItem from="1596728648883" duration="28000" />
+      <workItem from="1596763613891" duration="23012000" />
+      <workItem from="1596811837194" duration="66000" />
+      <workItem from="1596849833774" duration="11840000" />
+      <workItem from="1596873861362" duration="7043000" />
+      <workItem from="1596892469122" duration="1433000" />
+      <workItem from="1596894401894" duration="4663000" />
+      <workItem from="1596936793003" duration="12321000" />
+      <workItem from="1597023223656" duration="13100000" />
+      <workItem from="1597047689974" duration="10338000" />
+      <workItem from="1597110161200" duration="18327000" />
+      <workItem from="1597154027703" duration="46000" />
+      <workItem from="1597154137775" duration="81000" />
+      <workItem from="1597154441750" duration="45000" />
+      <workItem from="1597155569084" duration="196000" />
+      <workItem from="1597159832644" duration="31000" />
+      <workItem from="1597159996615" duration="25000" />
+      <workItem from="1597160123859" duration="10000" />
+      <workItem from="1597194387462" duration="17223000" />
+      <workItem from="1597282443160" duration="12480000" />
+      <workItem from="1597374852445" duration="9707000" />
+      <workItem from="1597397270386" duration="9358000" />
+      <workItem from="1597461220963" duration="592000" />
+      <workItem from="1597556306701" duration="5061000" />
+      <workItem from="1597631366100" duration="19287000" />
+      <workItem from="1597714191702" duration="26850000" />
+      <workItem from="1597800526483" duration="12979000" />
+      <workItem from="1597887833978" duration="7033000" />
+      <workItem from="1597906350206" duration="8088000" />
+      <workItem from="1597928389347" duration="2850000" />
+      <workItem from="1597972998904" duration="611000" />
+      <workItem from="1597979942160" duration="6570000" />
+      <workItem from="1598063616432" duration="2344000" />
+      <workItem from="1598164491953" duration="789000" />
+      <workItem from="1598167777065" duration="912000" />
+      <workItem from="1598177152035" duration="69000" />
+      <workItem from="1598239716374" duration="141000" />
+      <workItem from="1598253349948" duration="465000" />
+      <workItem from="1598255487006" duration="124000" />
+      <workItem from="1598282495894" duration="274000" />
+      <workItem from="1598432904989" duration="959000" />
+      <workItem from="1598435630015" duration="22000" />
+      <workItem from="1598436131002" duration="77000" />
+      <workItem from="1598515418771" duration="5563000" />
+      <workItem from="1598604463713" duration="117000" />
+      <workItem from="1599034680027" duration="1421000" />
+      <workItem from="1599108872565" duration="4000" />
+      <workItem from="1599577327625" duration="1841000" />
+      <workItem from="1599645266865" duration="2828000" />
+      <workItem from="1599745594020" duration="2467000" />
+      <workItem from="1599824645640" duration="771000" />
+      <workItem from="1599833210856" duration="262000" />
+    </task>
+    <task id="LOCAL-00001" summary="首次提交">
+      <created>1597929729238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597929729238</updated>
+    </task>
+    <task id="LOCAL-00002" summary="完善接口">
+      <created>1598520308867</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598520308867</updated>
+    </task>
+    <task id="LOCAL-00003" summary="完善接口">
+      <created>1598529013222</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598529013222</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CodeGenerator_main1 - 2020.08.02 at 14h 48m 39s.xml">
+      <configuration name="CodeGenerator.main1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodeGenerator_main1 - 2020.08.05 at 16h 23m 07s.xml">
+      <configuration name="CodeGenerator.main1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodeGenerator_main1 - 2020.08.05 at 17h 28m 59s.xml">
+      <configuration name="CodeGenerator.main1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodeGenerator_main1 - 2020.08.06 at 14h 21m 29s.xml">
+      <configuration name="CodeGenerator.main1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodeGenerator_main1 - 2020.08.06 at 14h 48m 00s.xml">
+      <configuration name="CodeGenerator.main1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodeGenerator_main1_(1) - 2020.08.10 at 13h 21m 06s.xml">
+      <configuration name="CodeGenerator.main1 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodeGenerator_main1 - 2020.08.11 at 15h 33m 05s.xml">
+      <configuration name="CodeGenerator.main1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodeGenerator_main1 - 2020.08.16 at 15h 32m 39s.xml">
+      <configuration name="CodeGenerator.main1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodeGenerator_main1 - 2020.08.16 at 15h 34m 21s.xml">
+      <configuration name="CodeGenerator.main1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodeGenerator_main1_(1) - 2020.08.18 at 11h 14m 01s.xml">
+      <configuration name="CodeGenerator.main1 (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="340387000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="397" y="79" width="1431" height="839" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49445677" visible="true" weight="0.26897568" />
+      <window_info id="Structure" order="1" sideWeight="0.50554323" side_tool="true" weight="0.27278912" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50554323" side_tool="true" weight="0.27278912" />
+      <window_info id="Web" order="7" sideWeight="0.50402147" side_tool="true" weight="0.3809524" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32777777" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5743034" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32777777" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.32777777" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50068027" side_tool="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run Dashboard" order="9" sideWeight="0.49931973" weight="0.37361112" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32777777" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3263889" />
+      <window_info anchor="bottom" id="Problems" order="12" weight="0.32896653" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49931973" weight="0.32916668" />
+      <window_info anchor="bottom" id="Spring" order="15" weight="0.32916668" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="16" weight="0.05241379" />
+      <window_info anchor="bottom" id="Java Enterprise" order="17" weight="0.32916668" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3288854" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3295626" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3295626" />
+      <window_info anchor="right" id="Module Dependencies" order="10" weight="0.3294964" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32993197" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49445677" visible="true" weight="0.292517" />
+      <window_info id="Structure" order="1" sideWeight="0.50554323" side_tool="true" weight="0.27278912" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50554323" side_tool="true" weight="0.27278912" />
+      <window_info id="Web" order="7" sideWeight="0.50402147" side_tool="true" weight="0.3809524" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32777777" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6180556" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32777777" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.32777777" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50068027" side_tool="true" weight="0.37361112" />
+      <window_info anchor="bottom" id="Run Dashboard" order="9" sideWeight="0.49931973" weight="0.37361112" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32777777" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3263889" />
+      <window_info anchor="bottom" id="Problems" order="12" weight="0.32896653" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Spring" order="15" weight="0.32916668" />
+      <window_info anchor="bottom" id="Java Enterprise" order="16" weight="0.32916668" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="17" weight="0.05241379" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3294964" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3295626" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3295626" />
+      <window_info anchor="right" id="Module Dependencies" order="10" weight="0.3294964" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32993197" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="首次提交" />
+    <MESSAGE value="完善接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="完善接口" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/canal_clientedu/src/main/java/com/atguigu/canal/client/CanalClient.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/canal_clientedu/src/main/java/com/atguigu/canal/client/CanalClient.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/canal_clientedu/src/main/java/com/atguigu/canal/client/CanalClient.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/canal_clientedu/src/main/java/com/atguigu/canal/client/CanalClient.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/canal_clientedu/src/main/java/com/atguigu/canal/client/CanalClient.java</url>
+          <line>203</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/commont/spring_security/src/main/java/com/atguigu/serurity/filter/TokenLoginFilter.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/guli_parent$EduApplication.ic" NAME="EduApplication Coverage Results" MODIFIED="1597394934956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.atguigu.serviceedu.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/service/service_msm/src/main/java/com/atguigu/msmservice/controller/MsmController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="24" column="54" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/front/CourseFrontController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduCourseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/front/EduIndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/api_gateway/src/main/java/com/atguigu/gateway/config/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/api_gateway/src/main/java/com/atguigu/gateway/handler/ErrorHandlerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commont/spring_security/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-101" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="77" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commont/spring_security/src/main/java/com/atguigu/serurity/config/TokenWebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="32" column="49" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commont/spring_security/src/main/java/com/atguigu/serurity/security/DefaultPasswordEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commont/spring_security/src/main/java/com/atguigu/serurity/security/TokenManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commont/spring_security/src/main/java/com/atguigu/serurity/security/UnauthorizedEntryPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commont/spring_security/src/main/java/com/atguigu/serurity/filter/TokenAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/EduApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_ucenter/src/main/java/com/atguigu/educenter/UcenterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/api_gateway/src/main/java/com/atguigu/gateway/ApiGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com/atguigu/aclservice/ServiceAclApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/api_gateway/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commont/spring_security/src/main/java/com/atguigu/serurity/filter/TokenLoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduChapterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_ucenter/src/main/java/com/atguigu/educenter/service/UcenterMemberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_ucenter/src/main/java/com/atguigu/educenter/service/impl/UcenterMemberServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_ucenter/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/client/VodClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="13" column="64" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/client/OrderClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_ucenter/src/main/java/com/atguigu/educenter/controller/UcenterMemberController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/client/impl/VodClientImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/service/OssService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/controller/OssController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.0.5/mybatis-plus-extension-3.0.5.jar!/com/baomidou/mybatisplus/extension/service/IService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/front/TeacherFrontController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduTeacherController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="127" column="40" selection-start-line="127" selection-start-column="40" selection-end-line="127" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.1.RELEASE/spring-web-5.2.1.RELEASE.jar!/org/springframework/web/multipart/MultipartFile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/service/impl/OssServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com/atguigu/aclservice/helper/MemuHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_acl/src/main/java/com/atguigu/aclservice/helper/PermissionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_cms/src/main/java/com/atguigu/educms/controller/BannerAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_cms/src/main/java/com/atguigu/educms/service/impl/CrmBannerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/oss/OssApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduChapterServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="28" selection-start-line="28" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduCourseDescriptionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduCourseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduSubjectServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduTeacherServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduVideoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_msm/src/main/java/com/atguigu/msmservice/service/impl/MsmServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_order/src/main/java/com/atguigu/orderservice/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_statistics/src/main/java/com/atguigu/staservice/service/impl/StatisticsDailyServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_order/src/main/java/com/atguigu/orderservice/service/impl/PayLogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>commont</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
