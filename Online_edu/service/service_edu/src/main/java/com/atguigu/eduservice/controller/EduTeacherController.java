@@ -7,6 +7,7 @@ import com.atguigu.eduservice.entity.vo.TeacherQuery;
 import com.atguigu.eduservice.service.EduTeacherService;
 import com.atguigu.servicebase.exceptionhandler.GuliException;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
+import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
@@ -32,7 +33,7 @@ import java.util.List;
 public class EduTeacherController {
     @Autowired
     private EduTeacherService teacherService;
-    @GetMapping
+    @GetMapping("findAll")
     public R list(){
         List<EduTeacher> list = teacherService.list(null);
 
@@ -57,14 +58,15 @@ public class EduTeacherController {
                              @PathVariable Integer limit){
         //创建page对象
         Page<EduTeacher> PageTeacher = new Page<>(current,limit);
-        try {
-            int i = 10/0;
-        }catch (Exception e){
-            throw new GuliException(20001,"执行了自定义异常");
-        }
+//        try {
+//            int i = 10/0;
+//        }catch (Exception e){
+//            throw new GuliException(20001,"执行了自定义异常");
+//        }
 
 
-        teacherService.page(PageTeacher, null);//数据list集合
+        IPage<EduTeacher> page = teacherService.page(PageTeacher, null);//数据list集合
+
         List<EduTeacher> records = PageTeacher.getRecords();
         long total = PageTeacher.getTotal();;
 //        Map map = new HashMap();
@@ -100,6 +102,9 @@ public class EduTeacherController {
         if (!StringUtils.isEmpty(level)){
             wrapper.like("gmt_create",end);
         }
+
+        //排序
+        wrapper.orderByDesc("gmt_create");
 
         //调用方法实现分页操作
         teacherService.page(pageTeacher, wrapper);
