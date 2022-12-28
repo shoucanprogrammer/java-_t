@@ -3,13 +3,17 @@ package com.atguigu.educenter.controller;
 
 import com.atguigu.commonutils.JwtUtils;
 import com.atguigu.commonutils.R;
+import com.atguigu.commonutils.ordervo.UcenterMemberOrder;
 import com.atguigu.educenter.entity.UcenterMember;
 import com.atguigu.educenter.entity.vo.RegisterVo;
 import com.atguigu.educenter.service.UcenterMemberService;
+import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.HttpServletRequest;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * <p>
@@ -52,6 +56,32 @@ public class UcenterMemberController {
         //查询数据库根据用户id获取用户信息
         UcenterMember member = memberService.getById(memberId);
         return R.ok().data("userInfo",member);
+    }
+    @GetMapping("getMemberInfo1")
+    public Map<String, String> getMemberInfo1(HttpServletRequest request) {
+        //调用jwt工具类的方法。根据request对象获取头信息，返回用户id
+        String memberId = JwtUtils.getMemberIdByJwtToken(request);
+        //查询数据库根据用户id获取用户信息
+        UcenterMember member = memberService.getById(memberId);
+        Map<String,String> map = new HashMap<>();
+        map.put("Id",member.getId());
+        map.put("Nickname",member.getNickname());
+        map.put("Avatar",member.getAvatar());
+        return map;
+    }
+    @PostMapping("getUserInfoOrder/{id}")
+    public UcenterMemberOrder getUserInfoOrder(@PathVariable String id){
+        UcenterMember ucenterMember = memberService.getById(id);
+        UcenterMemberOrder ucenterMemberOrder = new UcenterMemberOrder();
+        BeanUtils.copyProperties(ucenterMember,ucenterMemberOrder);
+        return ucenterMemberOrder;
+    }
+
+    //查询某一天注册人数
+    @GetMapping("countRegister/{day}")
+    public R countRegister(@PathVariable String day){
+        Integer count = memberService.countRegister(day);
+        return R.ok().data("countRegister",count);
     }
 
 }

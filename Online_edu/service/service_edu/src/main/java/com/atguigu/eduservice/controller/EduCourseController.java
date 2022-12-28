@@ -110,5 +110,7 @@ public class EduCourseController {
         courseService.updateById(course);
         return R.ok();
     }
+
+
 }
 

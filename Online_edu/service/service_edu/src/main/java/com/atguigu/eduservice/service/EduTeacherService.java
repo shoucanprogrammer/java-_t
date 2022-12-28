@@ -1,8 +1,11 @@
   package com.atguigu.eduservice.service;
 
 import com.atguigu.eduservice.entity.EduTeacher;
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.IService;
 import org.springframework.web.multipart.MultipartFile;
+
+import java.util.Map;
 
   /**
  * <p>
@@ -16,4 +19,6 @@ public interface EduTeacherService extends IService<EduTeacher> {
 
       //添加课程分类
       void saveSubject(MultipartFile multipartFile);
+
+      Map<String, Object> getTeacherFrontList(Page<EduTeacher> pageTeacher);
   }
