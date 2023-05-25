@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a94a60b-0d3c-4345-937a-8ee5d1625332" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/src/s100_isSameTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s101_isSymmetric/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s102_levelOrder/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s103_zigzagLevelOrder/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s104_maxDepth/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s105_buildTre/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s106_buildTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s106_levelOrderBottom/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s106_levelOrderBottom/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s108_sortedArrayToBST/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s109_sortedListToBST/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s110_isBalanced/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s111_minDepth/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s112_hasPathSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s113_pathSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s114_flatte/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s118_generate/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s125_isPalindrome/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s219_containsNearbyDuplicate/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s226_invertTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s257_binaryTreePaths/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s258_addDigits/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s268_missingNumber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s401_readBinaryWatch/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s455_findContentChildren/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s506_findRelativeRanks/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s561_arrayPairSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s5_longestPalindrome/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s5_longstPalindrome/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s96_numTrees/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s97_isInterleave/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s98_isValidBST/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s99_recoverTree/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm与leecode/s22_generateParenthesis/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm与leecode/s22_generateParenthesis/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s22_generateParenthesis/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s22_generateParenthesis/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s56_merge/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s56_merge/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s57_insert/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s57_insert/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s58_lengthOfLastWord/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s58_lengthOfLastWord/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s59_generateMatrix/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s59_generateMatrix/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s61_rotateRight/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s61_rotateRight/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s62_uniquePaths/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s62_uniquePaths/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s63_uniquePathsWithObstaacles/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s63_uniquePathsWithObstaacles/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s64_minPathSum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s64_minPathSum/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s66_plusOne/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s66_plusOne/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s67_addBinary/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s67_addBinary/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s69_mySqrt/mySqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s69_mySqrt/mySqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s70_climbStairs/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s70_climbStairs/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s71_simplifyPath/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s71_simplifyPath/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s73_setZeroes/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s73_setZeroes/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s74_searchMatrix/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s74_searchMatrix/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s75_sortColors/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s75_sortColors/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s77_combine/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s77_combine/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s78_subsets/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s78_subsets/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s79_exist/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s79_exist/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s80_removeDuplicates/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s80_removeDuplicates/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s81_search/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s81_search/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s82_deleteDuplicates/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s82_deleteDuplicates/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s83_deleteDuplicates/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s83_deleteDuplicates/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s86_partition/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s86_partition/solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s88_merge/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s88_merge/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s89_grayCode/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s89_grayCode/solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s90_subsetsWithDup/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s90_subsetsWithDup/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s91_numDecodings/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s91_numDecodings/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s92_reverseBetween/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s92_reverseBetween/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s93_restoreIpAddresses/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s93_restoreIpAddresses/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s94_inorderTraversal/Solution/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s94_inorderTraversal/Solution/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/s95_generateTrees/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/s95_generateTrees/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/common/common_utils/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/common/common_utils/src/main/java/Com/atguigu/commonutils/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/common/common_utils/src/main/java/Com/atguigu/commonutils/ResultCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/common/service_base/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/common/service_base/src/main/java/Com/atguigu/servicebase/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/common/service_base/src/main/java/Com/atguigu/servicebase/exceptionhandler/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/common/service_base/src/main/java/Com/atguigu/servicebase/exceptionhandler/GuliException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/common/service_base/src/main/java/Com/atguigu/servicebase/hanler/MyMetaObjectHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/log/info/log-info-2022-11-11.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/log/log_error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/log/log_info.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/log/log_warn.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/log/warn/log-warn-2022-11-11.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/service/service_edu/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/service/service_edu/src/main/java/com/atguigu/eduservice/EduApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/service/service_edu/src/main/java/com/atguigu/eduservice/config/EduConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/service/service_edu/src/main/java/com/atguigu/eduservice/controller/EduTeacherController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/service/service_edu/src/main/java/com/atguigu/eduservice/entity/EduTeacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/service/service_edu/src/main/java/com/atguigu/eduservice/entity/vo/TeacherQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/service/service_edu/src/main/java/com/atguigu/eduservice/mapper/EduTeacherMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/service/service_edu/src/main/java/com/atguigu/eduservice/mapper/xml/EduTeacherMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/service/service_edu/src/main/java/com/atguigu/eduservice/service/EduTeacherService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/service/service_edu/src/main/java/com/atguigu/eduservice/service/impl/EduTeacherServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/service/service_edu/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/service/service_edu/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_Education_Master/service/service_edu/src/test/java/com/atguigu/demo/CodeGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_edu/infrastructure/api_gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Online_edu/infrastructure/api_gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_edu/service/service_acl/src/main/java/com/atguigu/aclservice/entity/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Online_edu/service/service_acl/src/main/java/com/atguigu/aclservice/entity/Permission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_edu/service/service_acl/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Online_edu/service/service_acl/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_edu/service/service_edu/src/main/java/com/atguigu/eduservice/controller/front/EduCommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Online_edu/service/service_edu/src/main/java/com/atguigu/eduservice/controller/front/EduCommentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_edu/service/service_msm/src/main/java/com/atguigu/msmservice/service/impl/MsmServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Online_edu/service/service_msm/src/main/java/com/atguigu/msmservice/service/impl/MsmServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_edu/service/service_order/src/main/java/com/atguigu/eduorder/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Online_edu/service/service_order/src/main/java/com/atguigu/eduorder/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_edu/service/service_statistics/src/main/java/com/atguigu/staservice/service/impl/StatisticsDailyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Online_edu/service/service_statistics/src/main/java/com/atguigu/staservice/service/impl/StatisticsDailyServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_edu/service/service_ucenter/src/main/java/com/atguigu/educenter/service/impl/UcenterMemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Online_edu/service/service_ucenter/src/main/java/com/atguigu/educenter/service/impl/UcenterMemberServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msdemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msdemo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msdemo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msdemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msdemo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msdemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msdemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msdemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msdemo/src/main/java/com/example/msdemo/MsdemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msdemo/src/main/java/com/example/msdemo/config/MpConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msdemo/src/main/java/com/example/msdemo/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msdemo/src/main/java/com/example/msdemo/handler/MyMetaObjectHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msdemo/src/main/java/com/example/msdemo/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msdemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msdemo/src/test/java/com/example/msdemo/MsdemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__cglib_cglib_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_alibaba_easyexcel_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_alibaba_fastjson_1_2_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_alibaba_nacos_nacos_api_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_alibaba_nacos_nacos_client_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_alibaba_nacos_nacos_common_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_alibaba_otter_canal_client_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_alibaba_otter_canal_common_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_alibaba_otter_canal_protocol_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_core_4_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_ecs_4_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_ram_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_sts_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_vod_2_15_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_aliyun_aliyun_sdk_vod_upload_1_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_aliyun_oss_aliyun_sdk_oss_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_atguigu_common_utils_0_0_1_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_github_wxpay_wxpay_sdk_0_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__commons_dbutils_commons_dbutils_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_github_openfeign_feign_core_10_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_lettuce_lettuce_core_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_netty_netty_all_4_1_43_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_netty_netty_buffer_4_1_43_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_netty_netty_codec_4_1_43_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_43_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_43_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_43_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_netty_netty_common_4_1_43_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_netty_netty_handler_4_1_43_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_43_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_netty_netty_resolver_4_1_43_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_netty_netty_transport_4_1_43_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_43_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_43_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_0_9_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_prometheus_simpleclient_0_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__joda_time_joda_time_2_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_ehcache_ehcache_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_jacoco_org_jacoco_agent_runtime_0_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_jboss_netty_netty_3_2_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_json_json_20170516.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_29.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_29.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_29.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_alibaba_nacos_config_0_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_alibaba_nacos_discovery_0_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_core_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_alibaba_nacos_config_0_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_alibaba_nacos_discovery_0_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_spring_aop_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_spring_beans_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_spring_context_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_spring_core_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_spring_expression_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_spring_orm_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_spring_tx_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_spring_web_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_spring_webflux_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_synchronoss_cloud_nio_multipart_parser_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_synchronoss_cloud_nio_stream_storage_1_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/canal_clientedu/canal_clientedu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/canal_clientedu/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/canal_clientedu/src/main/java/com/atguigu/canal/CanalApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/canal_clientedu/src/main/java/com/atguigu/canal/client/CanalClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/canal_clientedu/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/comment_utils/comment_utils.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/comment_utils/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/comment_utils/src/main/java/com/atguigu/commonutils/DateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/comment_utils/src/main/java/com/atguigu/commonutils/JwtUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/comment_utils/src/main/java/com/atguigu/commonutils/MD5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/comment_utils/src/main/java/com/atguigu/commonutils/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/comment_utils/src/main/java/com/atguigu/commonutils/RandomUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/comment_utils/src/main/java/com/atguigu/commonutils/ResponseUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/comment_utils/src/main/java/com/atguigu/commonutils/ResultCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/comment_utils/src/main/java/com/atguigu/commonutils/exceptionhandler/Globalexceptionhandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/comment_utils/src/main/java/com/atguigu/commonutils/exceptionhandler/GuliException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/comment_utils/src/main/java/com/atguigu/commonutils/handler/MyMetaObjectHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/comment_utils/src/main/java/com/atguigu/commonutils/user/CourseWebVoOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/comment_utils/src/main/java/com/atguigu/commonutils/user/UcenterMemberOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/commont.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/service_base/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/service_base/service_base.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/service_base/src/main/java/com/atguigu/servicebase/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/service_base/src/main/java/com/atguigu/servicebase/config/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/spring_security/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/spring_security/spring_security.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/spring_security/src/main/java/com/atguigu/serurity/config/TokenWebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/spring_security/src/main/java/com/atguigu/serurity/entity/SecurityUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/spring_security/src/main/java/com/atguigu/serurity/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/spring_security/src/main/java/com/atguigu/serurity/filter/TokenAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/spring_security/src/main/java/com/atguigu/serurity/filter/TokenLoginFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/spring_security/src/main/java/com/atguigu/serurity/security/DefaultPasswordEncoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/spring_security/src/main/java/com/atguigu/serurity/security/TokenLogoutHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/spring_security/src/main/java/com/atguigu/serurity/security/TokenManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/commont/spring_security/src/main/java/com/atguigu/serurity/security/UnauthorizedEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/guli_parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/infrastructure/api_gateway/api_gateway.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/infrastructure/api_gateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/infrastructure/api_gateway/src/main/java/com/atguigu/gateway/ApiGatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/infrastructure/api_gateway/src/main/java/com/atguigu/gateway/config/CorsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/infrastructure/api_gateway/src/main/java/com/atguigu/gateway/filter/AuthGlobalFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/infrastructure/api_gateway/src/main/java/com/atguigu/gateway/handler/ErrorHandlerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/infrastructure/api_gateway/src/main/java/com/atguigu/gateway/handler/JsonExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/infrastructure/api_gateway/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/infrastructure/infrastructure.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/infrastructure/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/nginx配置文件/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/nginx配置文件/nginx.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/service_acl.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/ServiceAclApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/controller/IndexController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/controller/PermissionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/controller/RoleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/entity/Permission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/entity/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/entity/RolePermission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/entity/UserRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/helper/MemuHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/helper/PermissionHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/mapper/PermissionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/mapper/RoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/mapper/RolePermissionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/mapper/UserRoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/mapper/xml/PermissionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/mapper/xml/RoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/mapper/xml/RolePermissionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/mapper/xml/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/mapper/xml/UserRoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/service/IndexService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/service/PermissionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/service/RolePermissionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/service/RoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/service/UserRoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/service/impl/IndexServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/service/impl/PermissionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/service/impl/RolePermissionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/service/impl/RoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/service/impl/UserDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/service/impl/UserRoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/java/com/atguigu/aclservice/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_acl/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_cms/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_cms/service_cms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_cms/src/main/java/com/atguigu/educms/CmsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_cms/src/main/java/com/atguigu/educms/controller/BannerAdminController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_cms/src/main/java/com/atguigu/educms/controller/BannerFrontController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_cms/src/main/java/com/atguigu/educms/entity/CrmBanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_cms/src/main/java/com/atguigu/educms/mapper/CrmBannerMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_cms/src/main/java/com/atguigu/educms/mapper/xml/CrmBannerMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_cms/src/main/java/com/atguigu/educms/service/CrmBannerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_cms/src/main/java/com/atguigu/educms/service/impl/CrmBannerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_cms/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_cms/src/test/java/eduservice/CodeGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/service_edu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/EduApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/client/OrderClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/client/VodClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/client/impl/VodClientImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/config/EduConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduChapterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduCourseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduCourseDescriptionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduLoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduSubjectController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduTeacherController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/EduVideoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/front/CourseFrontController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/front/EduIndexController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/controller/front/TeacherFrontController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduChapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduCourseDescription.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduSubject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduTeacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/EduVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/chapter/ChapterVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/chapter/VideoVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/excel/SubjectData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/frontVo/CourseQueryVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/frontVo/CourseWebVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/subject/OneSubject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/subject/TwoSubject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/vo/CourseInfoVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/vo/CoursePublishVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/vo/CourseQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/entity/vo/TeachQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/listener/SubjectExcelListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/EduChapterMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/EduCourseDescriptionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/EduCourseMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/EduSubjectMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/EduTeacherMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/EduVideoMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/xml/EduChapterMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/xml/EduCourseDescriptionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/xml/EduCourseMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/xml/EduSubjectMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/xml/EduTeacherMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/mapper/xml/EduVideoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduChapterService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduCourseDescriptionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduCourseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduSubjectService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduTeacherService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/service/EduVideoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduChapterServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduCourseDescriptionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduCourseServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduSubjectServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduTeacherServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/java/com/atguigu/serviceedu/service/impl/EduVideoServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/test/java/com/atguigu/eduservice/CodeGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/test/java/com/atguigu/eduservice/excel/DemoData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/test/java/com/atguigu/eduservice/excel/ExcelListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_edu/src/test/java/com/atguigu/eduservice/excel/TestEasyExcel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_msm/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_msm/service_msm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_msm/src/main/java/com/atguigu/msmservice/MsmApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_msm/src/main/java/com/atguigu/msmservice/controller/MsmController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_msm/src/main/java/com/atguigu/msmservice/service/MsmService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_msm/src/main/java/com/atguigu/msmservice/service/impl/MsmServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_msm/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_msm/src/test/java/com/atguigu/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/service_order.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/OrderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/client/EduClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/client/UcenterClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/config/OrderConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/controller/PayLogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/entity/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/entity/PayLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/mapper/OrderMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/mapper/PayLogMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/mapper/xml/OrderMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/mapper/xml/PayLogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/service/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/service/PayLogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/service/impl/OrderServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/service/impl/PayLogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/utils/HttpClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/java/com/atguigu/orderservice/utils/OrderNoUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_order/src/test/java/com/atguigu/orderservice/CodeGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_oss/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_oss/service_oss.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_oss/src/main/java/com/atguigu/oss/OssApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_oss/src/main/java/com/atguigu/oss/controller/OssController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_oss/src/main/java/com/atguigu/oss/service/OssService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_oss/src/main/java/com/atguigu/oss/service/impl/OssServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_oss/src/main/java/com/atguigu/oss/utils/ConstantPropertiesUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_oss/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_statistics/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_statistics/service_statistics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_statistics/src/main/java/com/atguigu/staservice/StaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_statistics/src/main/java/com/atguigu/staservice/client/UcenterClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_statistics/src/main/java/com/atguigu/staservice/controller/StatisticsDailyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_statistics/src/main/java/com/atguigu/staservice/entity/StatisticsDaily.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_statistics/src/main/java/com/atguigu/staservice/mapper/StatisticsDailyMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_statistics/src/main/java/com/atguigu/staservice/mapper/xml/StatisticsDailyMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_statistics/src/main/java/com/atguigu/staservice/schedule/ScheduleTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_statistics/src/main/java/com/atguigu/staservice/service/StatisticsDailyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_statistics/src/main/java/com/atguigu/staservice/service/impl/StatisticsDailyServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_statistics/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_statistics/src/main/resources/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_statistics/src/test/java/com/atguigu/dome/CodeGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_ucenter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_ucenter/service_ucenter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_ucenter/src/main/java/com/atguigu/educenter/UcenterApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_ucenter/src/main/java/com/atguigu/educenter/controller/UcenterMemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_ucenter/src/main/java/com/atguigu/educenter/controller/WxApiController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_ucenter/src/main/java/com/atguigu/educenter/entity/UcenterMember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_ucenter/src/main/java/com/atguigu/educenter/entity/vo/RegisterVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_ucenter/src/main/java/com/atguigu/educenter/mapper/UcenterMemberMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_ucenter/src/main/java/com/atguigu/educenter/mapper/xml/UcenterMemberMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_ucenter/src/main/java/com/atguigu/educenter/service/UcenterMemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_ucenter/src/main/java/com/atguigu/educenter/service/impl/UcenterMemberServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_ucenter/src/main/java/com/atguigu/educenter/utils/ConstanWxtiesUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_ucenter/src/main/java/com/atguigu/educenter/utils/HttpClientUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_ucenter/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_ucenter/src/test/java/com/atguigu/CodeGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_vod/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_vod/service_vod.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_vod/src/main/java/com/atguigu/aliyunvod/VodApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_vod/src/main/java/com/atguigu/aliyunvod/controller/VodController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_vod/src/main/java/com/atguigu/aliyunvod/service/VodService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_vod/src/main/java/com/atguigu/aliyunvod/service/impl/VodServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_vod/src/main/java/com/atguigu/aliyunvod/util/AliyunVodSDKUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_vod/src/main/java/com/atguigu/aliyunvod/util/ConstantVodUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_vod/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_vod/src/test/java/com/atguigu/vodTest/AliyunVodSDKUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/service/service_vod/src/test/java/com/atguigu/vodTest/Testvod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/online-Education-master/online-Education-master/sql/guli.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../商城项目/谷粒学院项目笔记整合.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FNF4xRpEDXLt2RLTGpcLXbc3AP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/OneDrive - hdu.edu.cn/JAVA/Algorithm与leecode/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\OneDrive - hdu.edu.cn\JAVA\Algorithm与leecode\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Solution.test (3)">
+    <configuration name="Solution (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm与leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="s125_isPalindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="s125_isPalindrome" />
+      <option name="MAIN_CLASS_NAME" value="s125_isPalindrome.Solution" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm与leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="s5_longestPalindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="s5_longestPalindrome" />
+      <option name="MAIN_CLASS_NAME" value="s5_longestPalindrome.Solution" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm与leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="s219_containsNearbyDuplicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="s219_containsNearbyDuplicate" />
+      <option name="MAIN_CLASS_NAME" value="s219_containsNearbyDuplicate.Solution" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution.test (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm与leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="s401_readBinaryWatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="s401_readBinaryWatch" />
+      <option name="MAIN_CLASS_NAME" value="s401_readBinaryWatch.Solution" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm与leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="s125_isPalindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="s125_isPalindrome" />
+      <option name="MAIN_CLASS_NAME" value="s125_isPalindrome.Solution" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Solution.test (3)" />
+        <item itemvalue="JUnit.Solution.test (2)" />
+        <item itemvalue="JUnit.Solution (1)" />
+        <item itemvalue="JUnit.Solution.test" />
+        <item itemvalue="JUnit.Solution.test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="9a94a60b-0d3c-4345-937a-8ee5d1625332" name="变更" comment="" />
+      <created>1664324447731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664324447731</updated>
+      <workItem from="1664324449025" duration="5831000" />
+      <workItem from="1664759111730" duration="636000" />
+      <workItem from="1664951263270" duration="6000" />
+      <workItem from="1664957387303" duration="5782000" />
+      <workItem from="1665018912435" duration="29823000" />
+      <workItem from="1665106205907" duration="6259000" />
+      <workItem from="1665819473356" duration="114000" />
+      <workItem from="1667185422512" duration="15650000" />
+      <workItem from="1667283944297" duration="2111000" />
+      <workItem from="1671955046105" duration="599000" />
+      <workItem from="1671955717578" duration="39000" />
+      <workItem from="1673527373349" duration="4479000" />
+      <workItem from="1673580260446" duration="26913000" />
+      <workItem from="1673667190822" duration="21030000" />
+      <workItem from="1673760181648" duration="26293000" />
+      <workItem from="1673837368487" duration="24056000" />
+      <workItem from="1673930246448" duration="16987000" />
+      <workItem from="1674010423774" duration="19821000" />
+      <workItem from="1674184088438" duration="8654000" />
+      <workItem from="1674798764833" duration="6226000" />
+      <workItem from="1674965472044" duration="15746000" />
+      <workItem from="1675139816079" duration="23648000" />
+      <workItem from="1675228007182" duration="8565000" />
+      <workItem from="1675314865516" duration="11835000" />
+      <workItem from="1675493132754" duration="2042000" />
+      <workItem from="1675826087147" duration="43000" />
+      <workItem from="1678412651956" duration="5388000" />
+      <workItem from="1678686119186" duration="11657000" />
+      <workItem from="1678778822961" duration="18231000" />
+      <workItem from="1678859287689" duration="24167000" />
+      <workItem from="1678950575109" duration="12413000" />
+      <workItem from="1679021586379" duration="21728000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s38_countAndSay/Solution.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s38_countAndSay/Solution.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s41_firstMissingPositive/Solution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s39_combinationSum/Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s39_combinationSum/Solution.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s43_multiply/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s45_jump/Solution.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s45_jump/Solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s46_Permute/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s46_Permute/Solution.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s48_rotate/Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s49_groupAnagrams/Solution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s50_myPow/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/Program Files/JDK/lib/src.zip!/java.base/java/lang/StackOverflowError.java</url>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s50_myPow/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s55_canJump/Solution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s55_canJump/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s56_merge/Solution.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s56_merge/Solution.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s56_merge/Solution.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s57_insert/Solution.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s58_lengthOfLastWord/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s59_generateMatrix/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s61_rotateRight/Solution.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s61_rotateRight/Solution.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s61_rotateRight/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s61_rotateRight/Solution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s62_uniquePaths/Solution.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s63_uniquePathsWithObstaacles/Solution.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s63_uniquePathsWithObstaacles/Solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s64_minPathSum/Solution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s66_plusOne/Solution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s66_plusOne/Solution.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s66_plusOne/Solution.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s67_addBinary/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s67_addBinary/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s67_addBinary/Solution.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s69_mySqrt/mySqrt.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s69_mySqrt/mySqrt.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s69_mySqrt/mySqrt.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s70_climbStairs/Solution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s71_simplifyPath/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s71_simplifyPath/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s73_setZeroes/Solution.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s73_setZeroes/Solution.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s73_setZeroes/Solution.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s73_setZeroes/Solution.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s74_searchMatrix/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s74_searchMatrix/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s74_searchMatrix/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s75_sortColors/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s75_sortColors/Solution.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s77_combine/Solution.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s77_combine/Solution.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s78_subsets/Solution.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s78_subsets/Solution.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s78_subsets/Solution.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s78_subsets/Solution.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s79_exist/Solution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s80_removeDuplicates/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s81_search/Solution.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s81_search/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s82_deleteDuplicates/Solution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s83_deleteDuplicates/Solution.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s83_deleteDuplicates/Solution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s86_partition/solution.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s88_merge/Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s89_grayCode/solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s90_subsetsWithDup/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s92_reverseBetween/Solution.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s92_reverseBetween/Solution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s95_generateTrees/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s95_generateTrees/Solution.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s5_longstPalindrome/Solution.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s97_isInterleave/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s97_isInterleave/Solution.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s99_recoverTree/Solution.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s109_sortedListToBST/Solution.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s114_flatte/Solution.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s114_flatte/Solution.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s118_generate/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s258_addDigits/Solution.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s226_invertTree/Solution.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s268_missingNumber/Solution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s5_longestPalindrome/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s125_isPalindrome/Solution.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/s219_containsNearbyDuplicate/Solution.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/back_tracking/Solution.java</url>
+          <line>24</line>
+          <properties class="back_tracking.Solution" method="dfs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/s401_readBinaryWatch/Solution.java</url>
+          <line>12</line>
+          <properties class="s401_readBinaryWatch.Solution" method="readBinaryWatch">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="s114_flatte.TreeNode" memberName="right" />
+        <PinnedItemInfo parentTag="s114_flatte.TreeNode" memberName="val" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
