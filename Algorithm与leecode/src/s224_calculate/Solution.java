@@ -10,7 +10,7 @@ public class Solution {
     public void test(){
         calculate(" (1+(4+5+2)-3)+(6+8)");
     }
-    HashMap<Character,Integer> map = new HashMap<>(){
+    HashMap<Character,Integer> map = new HashMap<Character,Integer>(){
         {
             put('+', 1);
             put('-', 1);

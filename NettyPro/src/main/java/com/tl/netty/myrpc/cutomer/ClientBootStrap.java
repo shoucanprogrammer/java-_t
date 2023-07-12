@@ -7,7 +7,7 @@ public class ClientBootStrap {
 
     //这里定义协议头
     public static final String providerName = "HelloService#Hello#";
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
         //创建一个消费者
         NettyClient customer = new NettyClient();
@@ -17,6 +17,7 @@ public class ClientBootStrap {
 
         //通过代理对象调用服务提供者的方法（服务）
         for (;;) {
+            Thread.sleep(2 * 1000);
             String res = service.hello("你好 dubbo~");
             System.out.println("调用的结果 res= " + res);
         }
