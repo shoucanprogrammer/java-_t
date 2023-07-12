@@ -29,7 +29,6 @@ public class NettyClient {
 
         return Proxy.newProxyInstance(Thread.currentThread().getContextClassLoader(),
                 new Class<?>[]{serivceClass}, (proxy, method, args) -> {
-
                     System.out.println("(proxy, method, args) 进入...." + (++count) + " 次");
                     //{}  部分的代码，客户端每调用一次 hello, 就会进入到该代码
                     if (client == null) {
