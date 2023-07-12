@@ -1,18 +1,21 @@
-package com.hmdp.service.impl;
+package com.tl.dianping.service.impl;
 
 import cn.hutool.core.bean.BeanUtil;
 import cn.hutool.core.bean.copier.CopyOptions;
 import cn.hutool.core.lang.UUID;
 import cn.hutool.core.util.RandomUtil;
+import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.hmdp.dto.LoginFormDTO;
-import com.hmdp.dto.Result;
-import com.hmdp.dto.UserDTO;
-import com.hmdp.entity.User;
-import com.hmdp.mapper.UserMapper;
-import com.hmdp.service.IUserService;
-import com.hmdp.utils.RegexUtils;
-import com.hmdp.utils.UserHolder;
+import com.tl.dianping.dto.LoginFormDTO;
+import com.tl.dianping.dto.Result;
+import com.tl.dianping.dto.UserDTO;
+import com.tl.dianping.entity.User;
+import com.tl.dianping.mapper.UserMapper;
+import com.tl.dianping.service.IUserService;
+import com.tl.dianping.utils.RegexUtils;
+import com.tl.dianping.utils.UserHolder;
+
+import io.swagger.annotations.ApiImplicitParam;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.redis.connection.BitFieldSubCommands;
 import org.springframework.data.redis.core.StringRedisTemplate;
@@ -27,16 +30,16 @@ import java.util.List;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
-import static com.hmdp.utils.RedisConstants.*;
-import static com.hmdp.utils.SystemConstants.USER_NICK_NAME_PREFIX;
+import static com.tl.dianping.utils.RedisConstants.*;
+import static com.tl.dianping.utils.SystemConstants.USER_NICK_NAME_PREFIX;
+import static com.tl.dianping.utils.RedisConstants.LOGIN_USER_KEY;
+import static com.tl.dianping.utils.RedisConstants.LOGIN_USER_TTL;
 
 /**
  * <p>
  * 服务实现类
  * </p>
  *
- * @author 虎哥
- * @since 2021-12-22
  */
 @Slf4j
 @Service
@@ -57,11 +60,12 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements IU
 
         // 4.保存验证码到 session
         stringRedisTemplate.opsForValue().set(LOGIN_CODE_KEY + phone, code, LOGIN_CODE_TTL, TimeUnit.MINUTES);
-
+//        session.setAttribute("code",code);
         // 5.发送验证码
         log.debug("发送短信验证码成功，验证码：{}", code);
+        System.out.println(code);
         // 返回ok
-        return Result.ok();
+        return Result.ok(code);
     }
 
     @Override
@@ -74,6 +78,7 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements IU
         }
         // 3.从redis获取验证码并校验
         String cacheCode = stringRedisTemplate.opsForValue().get(LOGIN_CODE_KEY + phone);
+//        Object cacheCode = session.getAttribute("code");
         String code = loginForm.getCode();
         if (cacheCode == null || !cacheCode.equals(code)) {
             // 不一致，报错
@@ -94,6 +99,7 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements IU
         String token = UUID.randomUUID().toString(true);
         // 7.2.将User对象转为HashMap存储
         UserDTO userDTO = BeanUtil.copyProperties(user, UserDTO.class);
+//        session.setAttribute("user",userDTO);
         Map<String, Object> userMap = BeanUtil.beanToMap(userDTO, new HashMap<>(),
                 CopyOptions.create()
                         .setIgnoreNullValue(true)
@@ -109,6 +115,7 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements IU
     }
 
     @Override
+
     public Result sign() {
         // 1.获取当前登录用户
         Long userId = UserHolder.getUser().getId();

@@ -20,6 +20,7 @@ import javax.servlet.http.HttpServletRequest;
  * @since 2022-12-18
  */
 @RestController
+@CrossOrigin
 @RequestMapping("/eduorder/order")
 public class OrderController {
     @Autowired
@@ -28,7 +29,6 @@ public class OrderController {
     public R createOrde(@PathVariable String courseId, HttpServletRequest request){
       String orderNo = orderService.createOrder(courseId,JwtUtils.getMemberIdByJwtToken(request));
       return R.ok().data("orderId",orderNo);
-
     }
     //2 根据订单id查询订单信息
     @GetMapping("getOrderInfo/{orderId}")
@@ -38,7 +38,6 @@ public class OrderController {
         Order order = orderService.getOne(wrapper);
         return R.ok().data("item",order);
     }
-
     //根据课程id和用户id查询订单表中订单状态
     @GetMapping("isBuyCourse/{courseId}/{memberId}")
     public boolean isBuyCourse(@PathVariable String courseId,@PathVariable String memberId) {

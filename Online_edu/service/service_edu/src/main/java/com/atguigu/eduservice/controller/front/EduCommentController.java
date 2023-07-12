@@ -44,7 +44,6 @@ public class EduCommentController {
         eduComment.setNickname(memberInfo1.get("Nickname"));
         commentService.save(eduComment);
         return R.ok();
-
     }
 
     @GetMapping("pageCommentCondition/{current}/{limit}")

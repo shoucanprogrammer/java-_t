@@ -1,4 +1,6 @@
-package com.tl.pattern.adapter.class_adapter;
+package com.tl.pattern.adapter.obect_adapter;
+
+import com.tl.pattern.adapter.class_adapter.TFCardImpl;
 
 public class Client {
     public static void main(String[] args) {
@@ -11,7 +13,7 @@ public class Client {
         System.out.println("====================");
         //使用该电脑读取TF卡中的数据
         //定义适配器类
-        String msg1 = computer.readSD(new SDAdapterTF());
+        String msg1 = computer.readSD(new SDAdapterTF(new TFCardImpl()));
         System.out.println(msg1);
     }
 }

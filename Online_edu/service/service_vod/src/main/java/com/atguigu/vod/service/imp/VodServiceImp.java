@@ -28,7 +28,7 @@ public class VodServiceImp implements VodService {
         String fileName = file.getOriginalFilename();
         String title = fileName.substring(0,fileName.lastIndexOf('.'));
         System.out.println(fileName);
-        System.out.println(title);
+        System.out.println(title);  //fileName 除掉后缀
         System.out.println(ACCESS_KEY_ID);
         System.out.println(ACCESS_KEY_SECRET);
         //上传视频的方法

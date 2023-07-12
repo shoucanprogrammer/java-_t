@@ -1,4 +1,4 @@
-package com.hmdp.utils;
+package com.tl.dianping.utils;
 
 import cn.hutool.core.util.BooleanUtil;
 import cn.hutool.core.util.StrUtil;
@@ -14,8 +14,8 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 import java.util.function.Function;
 
-import static com.hmdp.utils.RedisConstants.CACHE_NULL_TTL;
-import static com.hmdp.utils.RedisConstants.LOCK_SHOP_KEY;
+import static com.tl.dianping.utils.RedisConstants.CACHE_NULL_TTL;
+import static com.tl.dianping.utils.RedisConstants.LOCK_SHOP_KEY;
 
 @Slf4j
 @Component

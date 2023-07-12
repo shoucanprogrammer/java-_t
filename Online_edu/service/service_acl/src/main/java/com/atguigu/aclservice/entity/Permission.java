@@ -71,7 +71,6 @@ public class Permission implements Serializable {
     @TableField(exist = false)
     private boolean isSelect;
 
-
     @ApiModelProperty(value = "逻辑删除 1（true）已删除， 0（false）未删除")
     private Boolean isDeleted;
 
@@ -80,6 +79,4 @@ public class Permission implements Serializable {
 
     @ApiModelProperty(value = "更新时间")
     private Date gmtModified;
-
-
 }

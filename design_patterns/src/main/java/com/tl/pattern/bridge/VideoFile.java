@@ -1,2 +1,10 @@
-package com.tl.pattern.bridge;public class VideoFile {
+package com.tl.pattern.bridge;
+
+/**
+ * 视频文件（实现化角色）
+ */
+public interface VideoFile {
+    //解码功能
+    void decode(String fileName);
+
 }

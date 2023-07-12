@@ -1,2 +1,5 @@
-package s344_reverseString;public class Solution {
+package s344_reverseString;
+
+public class Solution {
+
 }

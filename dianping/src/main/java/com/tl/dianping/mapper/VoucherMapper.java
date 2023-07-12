@@ -1,7 +1,7 @@
-package com.hmdp.mapper;
+package com.tl.dianping.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.hmdp.entity.Voucher;
+import com.tl.dianping.entity.Voucher;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;

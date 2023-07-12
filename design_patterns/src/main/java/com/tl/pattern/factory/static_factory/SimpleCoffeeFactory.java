@@ -1,7 +1,7 @@
-package com.tl.pattern.factory.simple_factory;
+package com.tl.pattern.factory.static_factory;
 
 public class SimpleCoffeeFactory {
-    public Coffee createCoffee(String type){
+    public static Coffee createCoffee(String type){
         //声明coffee类型的变量，根据不同类型创建不同的coffee子类对象
         Coffee coffee = null;
         if ("american".equals(type)){

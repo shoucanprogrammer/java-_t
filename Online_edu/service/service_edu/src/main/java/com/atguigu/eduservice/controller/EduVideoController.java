@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.*;
  * @since 2022-11-17
  */
 @RestController
-@CrossOrigin
+//@CrossOrigin
 @RequestMapping("/eduservice/video")
 public class EduVideoController {
     @Autowired

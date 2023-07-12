@@ -1,12 +1,12 @@
-package com.hmdp.service.impl;
+package com.tl.dianping.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.hmdp.dto.Result;
-import com.hmdp.entity.SeckillVoucher;
-import com.hmdp.entity.Voucher;
-import com.hmdp.mapper.VoucherMapper;
-import com.hmdp.service.ISeckillVoucherService;
-import com.hmdp.service.IVoucherService;
+import com.tl.dianping.dto.Result;
+import com.tl.dianping.entity.SeckillVoucher;
+import com.tl.dianping.entity.Voucher;
+import com.tl.dianping.mapper.VoucherMapper;
+import com.tl.dianping.service.ISeckillVoucherService;
+import com.tl.dianping.service.IVoucherService;
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -14,7 +14,7 @@ import org.springframework.transaction.annotation.Transactional;
 import javax.annotation.Resource;
 import java.util.List;
 
-import static com.hmdp.utils.RedisConstants.SECKILL_STOCK_KEY;
+import static com.tl.dianping.utils.RedisConstants.SECKILL_STOCK_KEY;
 
 /**
  * <p>

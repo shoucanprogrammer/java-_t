@@ -1,6 +1,6 @@
-package com.hmdp.config;
+package com.tl.dianping.config;
 
-import com.hmdp.dto.Result;
+import com.tl.dianping.dto.Result;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;

@@ -1,7 +1,7 @@
-package com.hmdp.service;
+package com.tl.dianping.service;
 
-import com.hmdp.entity.BlogComments;
 import com.baomidou.mybatisplus.extension.service.IService;
+import com.tl.dianping.entity.BlogComments;
 
 /**
  * <p>

@@ -1,2 +1,7 @@
-package s816;public class Solution {
+package s816;
+
+import java.util.List;
+
+public class Solution {
+
 }

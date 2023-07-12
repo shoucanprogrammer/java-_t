@@ -1,16 +1,14 @@
-package com.hmdp.service;
+package com.tl.dianping.service;
 
-import com.hmdp.dto.Result;
-import com.hmdp.entity.Blog;
 import com.baomidou.mybatisplus.extension.service.IService;
+import com.tl.dianping.dto.Result;
+import com.tl.dianping.entity.Blog;
 
 /**
  * <p>
  *  服务类
  * </p>
  *
- * @author 虎哥
- * @since 2021-12-22
  */
 public interface IBlogService extends IService<Blog> {
 

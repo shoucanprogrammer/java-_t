@@ -82,7 +82,6 @@ public class UcenterMemberServiceImpl extends ServiceImpl<UcenterMemberMapper, U
             System.out.print("redisCode"+redisCode);
             throw new GuliException(20001,"注册失败");
         }
-
         //判断手机号是否重复，表里面存在相同手机号不进行添加
         QueryWrapper<UcenterMember> wrapper = new QueryWrapper<>();
         wrapper.eq("mobile",mobile);

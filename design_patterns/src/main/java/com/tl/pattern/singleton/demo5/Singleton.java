@@ -1,23 +1,21 @@
-package com.tl.pattern.singleton.demo4;
+package com.tl.pattern.singleton.demo5;
 
+/**
+ * 静态内部类
+ */
 public class Singleton {
     //私有构造方法
     private Singleton(){
     }
-    //声明Singleton类型的变量
-    private static Singleton instance;
-
-    //对外提供公共的访问方式
-    public static  Singleton getInstance(){
-        if (instance == null){
-            synchronized (Singleton.class){
-                //出现空指针  JVM 指令重排
-                //第二次判断
-                if (instance == null){
-                    instance = new Singleton();
-                }
-            }
-        }
-        return instance;
+    //定义一个静态内部类
+    private static class SingletonHolder{
+        //在内部类中声明并初始化外部类的对象
+        private static final Singleton INSTANCE = new Singleton();
     }
+
+    //提公共的额访问方式
+    public static Singleton getInstance(){
+        return SingletonHolder.INSTANCE;
+    }
+
 }

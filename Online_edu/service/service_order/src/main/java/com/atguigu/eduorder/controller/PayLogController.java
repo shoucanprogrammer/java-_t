@@ -17,8 +17,9 @@ import java.util.Map;
  * @since 2022-12-18
  */
 @RestController
-@RequestMapping("/eduorder/paylog")
 @CrossOrigin
+@RequestMapping("/eduorder/paylog")
+//@CrossOrigin
 public class PayLogController {
 
     @Autowired
@@ -34,7 +35,7 @@ public class PayLogController {
         return R.ok().data(map);
     }
 
-    //查询订单支付状态
+    //查询订单支付状态X
     //参数：订单号，根据订单号查询 支付状态
     @GetMapping("queryPayStatus/{orderNo}")
     public R queryPayStatus(@PathVariable String orderNo) {

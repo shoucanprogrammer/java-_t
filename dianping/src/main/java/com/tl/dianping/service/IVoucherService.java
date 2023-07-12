@@ -1,16 +1,14 @@
-package com.hmdp.service;
+package com.tl.dianping.service;
 
-import com.hmdp.dto.Result;
-import com.hmdp.entity.Voucher;
 import com.baomidou.mybatisplus.extension.service.IService;
+import com.tl.dianping.dto.Result;
+import com.tl.dianping.entity.Voucher;
 
 /**
  * <p>
  *  服务类
  * </p>
  *
- * @author 虎哥
- * @since 2021-12-22
  */
 public interface IVoucherService extends IService<Voucher> {
 

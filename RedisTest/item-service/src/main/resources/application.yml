@@ -4,10 +4,10 @@ spring:
   application:
     name: itemservice
   datasource:
-    url: jdbc:mysql://192.168.150.101:3306/heima?useSSL=false
+    url: jdbc:mysql://localhost:3306/tbshop?serverTimezone=GMT%2B8
     username: root
-    password: 123
-    driver-class-name: com.mysql.jdbc.Driver
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
 mybatis-plus:
   type-aliases-package: com.heima.item.pojo
   configuration:

@@ -1,4 +1,4 @@
-package com.tl.pattern.factory.static_factory.simple_factory;
+package com.tl.pattern.factory.simple_factory;
 
 public class CoffeeStore {
     public Coffee orderCoffee(String type){

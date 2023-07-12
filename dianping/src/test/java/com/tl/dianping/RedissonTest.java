@@ -1,4 +1,4 @@
-package com.hmdp;
+package com.tl.dianping;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.BeforeEach;
@@ -17,11 +17,27 @@ class RedissonTest {
     @Resource
     private RedissonClient redissonClient;
 
+    @Resource
+    private RedissonClient redissonClient2;
+
+    @Resource
+    private RedissonClient redissonClient3;
     private RLock lock;
+
+
+    private RLock lock1;
+    private RLock lock2;
+    private RLock lock3;
+
+
 
     @BeforeEach
     void setUp() {
-        lock = redissonClient.getLock("order");
+        lock1 = redissonClient.getLock("order");
+        lock2 = redissonClient2.getLock("order");
+        lock3 = redissonClient3.getLock("order");
+        //创建联锁 multiLock
+        lock = redissonClient.getMultiLock(lock1,lock2,lock3);
     }
 
     @Test

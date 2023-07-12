@@ -403,6 +403,9 @@
       <change afterPath="$PROJECT_DIR$/../Algorithm与leecode/src/test3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Online_edu/log/error/log-error-2022-12-18.0.log" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Online_edu/log/warn/log-warn-2022-12-24.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
@@ -1313,15 +1316,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "G:/OneDrive - hdu.edu.cn/JAVA/RedisTest",
-    "settings.editor.selected.configurable": "MavenSettings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/OneDrive - hdu.edu.cn/JAVA/RedisTest&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -1331,6 +1334,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684919063655</updated>
       <workItem from="1684919064910" duration="50000" />
+      <workItem from="1684919148142" duration="87000" />
     </task>
     <servers />
   </component>

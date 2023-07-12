@@ -1,4 +1,4 @@
-package com.tl.pattern.singleton.demo7;
+package com.tl.pattern.singleton.demo8;
 
 import java.io.Serializable;
 
@@ -7,10 +7,18 @@ import java.io.Serializable;
  * @ClassName: Singleton
  * @Description: 静态内部类方式
  */
-public class Singleton implements Serializable {
-
+public class Singleton  {
+    private static boolean flag = false;
     //私有构造方法
-    private Singleton() {}
+    private Singleton() {
+        synchronized (Singleton.class){
+            if (flag){
+                throw new RuntimeException("不能创建多个对象");
+            }
+            //将flag的值设置为true
+            flag = true;
+        }
+    }
 
     //定义一个静态内部类
     private static class SingletonHolder {

@@ -1,7 +1,11 @@
-package com.tl.principles.demo3.before;
+package com.tl.principles.demo3.after;
+
+
 
 public class ComputerDemo {
     public static void main(String[] args) {
+
+
         Computer computer = new Computer();
         computer.setHardDisk(new XiJieHardDisk());
         computer.setCpu(new IntelCpu());

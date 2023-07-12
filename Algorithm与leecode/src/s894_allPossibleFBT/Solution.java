@@ -1,2 +1,5 @@
-package s894_allPossibleFBT;public class Solution {
+package s894_allPossibleFBT;
+
+public class Solution {
+
 }

@@ -29,12 +29,10 @@ public class StatisticsDailyServiceImpl extends ServiceImpl<StatisticsDailyMappe
     private UcenterClient ucenterClient;
     @Override
     public void registerCount(String day) {
-
         //删除直接统计的数据，重新统计
         QueryWrapper<StatisticsDaily> wrapper = new QueryWrapper<>();
         wrapper.eq("date_calculated",day);
-        baseMapper. delete(wrapper);
-
+        baseMapper.delete(wrapper);
         //重新统计
         //远程调用
         Integer countRegister =(Integer) ucenterClient.countRegister(day).getData().get("countRegister");
@@ -51,8 +49,6 @@ public class StatisticsDailyServiceImpl extends ServiceImpl<StatisticsDailyMappe
         sta.setGmtCreate(date);
         sta.setGmtModified(date);
         baseMapper.insert(sta);
-
-
     }
 
     @Override

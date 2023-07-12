@@ -21,7 +21,7 @@ import java.util.stream.Stream;
  * @since 2022-11-17
  */
 @RestController
-@CrossOrigin
+//@CrossOrigin
 @RequestMapping("/eduservice/chapter")
 public class EduChapterController {
     @Autowired

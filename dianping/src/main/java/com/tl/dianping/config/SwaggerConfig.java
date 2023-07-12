@@ -1,4 +1,4 @@
-package com.atguigu.servicebase.config;
+package com.tl.dianping.config;
 
 import com.google.common.base.Predicates;
 import org.springframework.context.annotation.Bean;

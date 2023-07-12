@@ -1,10 +1,9 @@
-package com.itheima.principles.demo5;
+package com.tl.principles.demo5;
 
 /**
  * @version v1.0
  * @ClassName: Agent
  * @Description: 经纪人类
- * @Author: 黑马程序员
  */
 public class Agent {
 

@@ -1,10 +1,17 @@
 package S395_longestSubstring;
 
+import org.junit.Test;
+
 public class Solution {
+    @Test
+    public void test(){
+        longestSubstring("aaabb",3);
+    }
     public int longestSubstring(String s, int k) {
         int ans = 0;
-        int[] counter = new int[26];
+
         for (int i = 0; i < s.length(); i++){
+            int[] counter = new int[26];
             for (int j = i; j < s.length(); j++){
                 counter[s.charAt(j)-'a']++;
                 boolean fla = true;
@@ -18,7 +25,6 @@ public class Solution {
                     ans = Math.max(ans,j-i+1);
                 }
             }
-            counter[s.charAt(i)-'a']--;
         }
         return ans;
     }

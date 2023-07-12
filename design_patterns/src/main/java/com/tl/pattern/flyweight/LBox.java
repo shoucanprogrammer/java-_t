@@ -1,11 +1,11 @@
 package com.tl.pattern.flyweight;
 
 /**
- * I图形类(具体享元角色)
+ * L图形类(具体享元角色)
  */
-public class IBox extends AbstractBox{
+public class LBox extends AbstractBox{
     @Override
     public String getShape() {
-        return "I";
+        return "L";
     }
 }

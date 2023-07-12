@@ -1,9 +1,9 @@
-package com.hmdp.controller;
+package com.tl.dianping.controller;
 
 
-import com.hmdp.dto.Result;
-import com.hmdp.entity.Voucher;
-import com.hmdp.service.IVoucherService;
+import com.tl.dianping.dto.Result;
+import com.tl.dianping.entity.Voucher;
+import com.tl.dianping.service.IVoucherService;
 import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;

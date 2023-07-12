@@ -1,4 +1,4 @@
-package com.tl.principles.demo2.defore;
+package demo2.defore;
 
 public class RectangleDemo {
     public static void main(String[] args) {

@@ -1,9 +1,9 @@
-package com.hmdp.controller;
+package com.tl.dianping.controller;
 
 
-import com.hmdp.dto.Result;
-import com.hmdp.entity.ShopType;
-import com.hmdp.service.IShopTypeService;
+import com.tl.dianping.dto.Result;
+import com.tl.dianping.entity.ShopType;
+import com.tl.dianping.service.IShopTypeService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -26,8 +26,7 @@ public class ShopTypeController {
 
     @GetMapping("list")
     public Result queryTypeList() {
-        List<ShopType> typeList = typeService
-                .query().orderByAsc("sort").list();
-        return Result.ok(typeList);
+        Result result = typeService.queryList();
+        return result;
     }
 }

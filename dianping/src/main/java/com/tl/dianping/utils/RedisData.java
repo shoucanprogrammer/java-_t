@@ -1,4 +1,4 @@
-package com.hmdp.utils;
+package com.tl.dianping.utils;
 
 import lombok.Data;
 

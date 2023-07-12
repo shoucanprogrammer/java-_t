@@ -1,28 +1,16 @@
-package sort;
+package asort;
 
 import java.text.SimpleDateFormat;
-import java.util.Arrays;
 import java.util.Date;
 
 public class InsertSort {
-    public static void main(String[] args) {
-//        int []arr = {101,34,119,1};
-        int[] arr = new int[80000];
-        for(int i=0;i<80000;i++){
-            arr[i] = (int) (Math.random()*8000000);
-        }
+    public static void main(String[] args){
+        int[] array = {38,65,97,76,13,27,49};
+       insertSort(array);
 
-        Date data1 = new Date();
-        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy.MM.dd G 'at' HH:mm:ss z");
-        String data1Str = simpleDateFormat.format(data1);
-        System.out.println(data1Str);
-        insertSort(arr);
-        Date data2 = new Date();
-        SimpleDateFormat simpleDateFormat2 = new SimpleDateFormat("yyyy.MM.dd G 'at' HH:mm:ss z");
-        String data2Str = simpleDateFormat2.format(data2);
-        System.out.println(data2Str);
 
     }
+
 
     public static void insertSort(int[] arr){
 
@@ -45,8 +33,6 @@ public class InsertSort {
               //当退出循环时，说明插入的位置找到，insertIndex+1
               arr[insertIndex+1] = insertVal;
 //              System.out.printf("%d epoch:%s\n",i, Arrays.toString(arr));
-
-
           }
 
 

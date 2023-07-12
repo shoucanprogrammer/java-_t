@@ -1,10 +1,7 @@
-package com.itheima.pattern.factory.config_factory;
+package com.tl.pattern.factory.config_factory;
 
 /**
- * @version v1.0
- * @ClassName: Coffee
  * @Description: 咖啡类
- * @Author: 黑马程序员
  */
 public abstract class Coffee {
 

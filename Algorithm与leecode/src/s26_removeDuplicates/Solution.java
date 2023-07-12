@@ -2,13 +2,7 @@ package s26_removeDuplicates;
 
 import org.junit.Test;
 public class Solution {
-    @Test
-    public void test(){
-        int[] nums = new int[]{1,1,2};
-        int i = removeDuplicates2(nums);
-        System.out.println();
 
-    }
 
     public int removeDuplicates(int[] nums) {
         int value = 0;

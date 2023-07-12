@@ -1,4 +1,4 @@
-package com.hmdp.utils;
+package com.tl.dianping.utils;
 
 import cn.hutool.core.lang.UUID;
 import org.springframework.core.io.ClassPathResource;
@@ -45,16 +45,16 @@ public class SimpleRedisLock implements ILock {
                 Collections.singletonList(KEY_PREFIX + name),
                 ID_PREFIX + Thread.currentThread().getId());
     }
-    /*@Override
-    public void unlock() {
-        // 获取线程标示
-        String threadId = ID_PREFIX + Thread.currentThread().getId();
-        // 获取锁中的标示
-        String id = stringRedisTemplate.opsForValue().get(KEY_PREFIX + name);
-        // 判断标示是否一致
-        if(threadId.equals(id)) {
-            // 释放锁
-            stringRedisTemplate.delete(KEY_PREFIX + name);
-        }
-    }*/
+//   @Override
+//    public void unlock() {
+//        // 获取线程标示
+//        String threadId = ID_PREFIX + Thread.currentThread().getId();
+//        // 获取锁中的标示
+//        String id = stringRedisTemplate.opsForValue().get(KEY_PREFIX + name);
+//        // 判断标示是否一致
+//        if(threadId.equals(id)) {
+//            // 释放锁
+//            stringRedisTemplate.delete(KEY_PREFIX + name);
+//        }
+//    }
 }

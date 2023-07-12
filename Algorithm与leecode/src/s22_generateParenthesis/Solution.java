@@ -4,15 +4,26 @@ import java.util.*;
 
 class Solution {
     public List<String> generateParenthesis(int n) {
-        if (n == 1) {
-            return Arrays.asList("()");
+        List<String> ans = new ArrayList<String>();
+        backtrack(ans, new StringBuilder(), 0, 0, n);
+        return ans;
+    }
+
+    public void backtrack(List<String> ans, StringBuilder cur, int open, int close, int max) {
+        if (cur.length() == max * 2) {
+            ans.add(cur.toString());
+            return;
         }
-        Set<String> hs = new HashSet<>();
-        for (String s : generateParenthesis(n-1)) {
-            for (int i = 0; i < 2*n-2; i++) {
-                hs.add(s.substring(0,i) + "()" + s.substring(i,s.length()));
-            }
+        if (open < max) {
+            cur.append('(');
+            backtrack(ans, cur, open + 1, close, max);
+            cur.deleteCharAt(cur.length() - 1);
         }
-        return new ArrayList(hs);
+        if (close < open) {
+            cur.append(')');
+            backtrack(ans, cur, open, close + 1, max);
+            cur.deleteCharAt(cur.length() - 1);
+        }
     }
 }
+

@@ -1,9 +1,9 @@
-package demo2.after.Quadrilateral;
+package com.tl.principles.demo2.after.Quadrilateral;
 
 public class RectangleDemo {
     public static void main(String[] args) {
         //创建长方形对象
-        Rectangle  r = new Rectangle();
+        Rectangle r = new Rectangle();
         r.setLength(20);
         r.setWidth(10);
 

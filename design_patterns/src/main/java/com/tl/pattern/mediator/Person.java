@@ -1,2 +1,15 @@
-package com.tl.pattern.mediator;public class Person {
+package com.tl.pattern.mediator;
+
+/**
+ * 抽象同事类
+ */
+public abstract class Person {
+    protected String name;
+    protected Mediator mediator;
+
+    public Person(String name, Mediator mediator) {
+        this.name = name;
+        this.mediator = mediator;
+    }
+
 }

@@ -1,4 +1,4 @@
-package com.tl.pattern.adapter.class_adapter;
+package com.tl.pattern.adapter.obect_adapter;
 
 /**
  * 适配者类的接口

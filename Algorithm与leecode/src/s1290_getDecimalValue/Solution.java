@@ -8,6 +8,12 @@ class ListNode {
 }
 public class Solution {
     public int getDecimalValue(ListNode head) {
-        
+        ListNode temp = head;
+        StringBuilder builder = new StringBuilder();
+        while (temp != null){
+            builder.append(temp.val);
+            temp = temp.next;
+        }
+        return Integer.valueOf(builder.toString(),2);
     }
 }

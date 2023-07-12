@@ -1,8 +1,6 @@
-package sort;
+package asort;
 
-import java.text.SimpleDateFormat;
 import java.util.Arrays;
-import java.util.Date;
 
 public class MergetSort {
 

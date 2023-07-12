@@ -1,4 +1,4 @@
-package com.itheima.pattern.factory.config_factory;
+package com.tl.pattern.factory.config_factory;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -7,10 +7,7 @@ import java.util.Properties;
 import java.util.Set;
 
 /**
- * @version v1.0
- * @ClassName: CoffeeFactory
  * @Description: TODO(一句话描述该类的功能)
- * @Author: 黑马程序员
  */
 public class CoffeeFactory {
 

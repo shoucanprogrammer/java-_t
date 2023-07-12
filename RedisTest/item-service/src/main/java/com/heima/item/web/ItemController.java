@@ -1,6 +1,7 @@
 package com.heima.item.web;
 
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import com.github.benmanes.caffeine.cache.Cache;
 import com.heima.item.pojo.Item;
 import com.heima.item.pojo.ItemStock;
 import com.heima.item.pojo.PageDTO;
@@ -20,6 +21,12 @@ public class ItemController {
     private IItemService itemService;
     @Autowired
     private IItemStockService stockService;
+
+    @Autowired
+    private Cache<Long,Item> itemCache;
+
+    @Autowired
+    private Cache<Long,ItemStock> stockCache;
 
     @GetMapping("list")
     public PageDTO queryItemPage(
@@ -63,13 +70,14 @@ public class ItemController {
 
     @GetMapping("/{id}")
     public Item findById(@PathVariable("id") Long id){
-        return itemService.query()
-                .ne("status", 3).eq("id", id)
-                .one();
+        return itemCache.get(id,key->itemService.query()
+                .ne("status", 3).eq("id", key)
+                .one());
+
     }
 
     @GetMapping("/stock/{id}")
     public ItemStock findStockById(@PathVariable("id") Long id){
-        return stockService.getById(id);
+        return stockCache.get(id,key -> stockService.getById(key));
     }
 }

@@ -35,7 +35,6 @@ public class MsmServiceImpl implements MsmService {
         request.putQueryParameter("SignName","谷粒开发在线教育网站"); //申请阿里云 签名名称
         request.putQueryParameter("TemplateCode","SMS_264090641"); //申请阿里云 模板code
         request.putQueryParameter("TemplateParam", JSONObject.toJSONString(param)); //验证码数据，转换json数据传递
-
         try {
             //最终发送
             CommonResponse response = client.getCommonResponse(request);

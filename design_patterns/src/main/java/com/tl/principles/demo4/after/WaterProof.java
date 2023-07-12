@@ -1,2 +1,5 @@
-package com.tl.principles.demo4.after;public interface WaterProof {
+package com.tl.principles.demo4.after;
+
+public interface WaterProof {
+    void waterproof();
 }

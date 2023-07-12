@@ -13,37 +13,73 @@ public class Solution2 {
         for (int[] mine : mines){
             matrix[mine[0]][mine[1]] = 1;
         }
-
+        int[][][] dp = new int[n][n][4];  //上下左右
         //遍历
         int ans = 0;
         for (int i = 0; i <= n - 1; i++){
-            for (int j = 0; j <= n - 1; j++){
+            for (int j = 0; j <= n - 1; j++){   // 右遍历
                 if (matrix[i][j] == 0){
-                    ans = Math.max(ans,find(i,j,matrix) ) ;
+                    if ( j == 0){
+                        dp[i][j][3] = 1;
+                    }else {
+                        dp[i][j][3] = dp[i][j-1][3]+1;
+                    }
+                }else {
+                    dp[i][j][3] = 0;
                 }
             }
         }
+        for (int i = 0; i <= n - 1; i++){
+            for (int j = n - 1; j >=  0; j--){   // 左遍历
+                if (matrix[i][j] == 0){
+                    if ( j == n-1){
+                        dp[i][j][2] = 1;
+                    }else {
+                        dp[i][j][2] = dp[i][j+1][2]+1;
+                    }
+                }else {
+                    dp[i][j][2] = 0;
+                }
+            }
+        }
+        for (int i = 0; i <= n - 1; i++){
+            for (int j = n - 1; j >=  0; j--){   //上
+                if (matrix[j][i] == 0){
+                    if ( j == n-1){
+                        dp[j][i][0] = 1;
+                    }else {
+                        dp[j][i][0] = dp[j+1][i][0]+1;
+                    }
+                }else {
+                    dp[i][j][0] = 0;
+                }
+            }
+        }
+        for (int i = 0; i <= n - 1; i++){
+            for (int j = 0; j <= n - 1; j++){   // 下
+                if (matrix[j][i] == 0){
+                    if ( j == 0){
+                        dp[j][i][1] = 1;
+                    }else {
+                        dp[j][i][1] = dp[j-1][i][1]+1;
+                    }
+                }else {
+                    dp[j][i][1] = 0;
+                }
+            }
+        }
+        for (int i = 0; i <= n - 1; i++){
+            for (int j = 0; j <= n - 1; j++){   // 右遍历
+                int min = Integer.MAX_VALUE;
+               min = Math.min(dp[i][j][0],dp[i][j][1]);
+               min = Math.min(min,dp[i][j][2]);
+               min = Math.min(min,dp[i][j][3]);
+               ans = Math.max(min,ans);
+            }
+        }
+
+
         return ans ;
     }
-    public int find(int i,int j,int[][] matrix){
-        int count = 1;
-        int left = j ,right = j;
-        int up = i,down = i;
-        while (true){
-            //左遍历
-            if (--left >= 0 && matrix[i][left] == 0){
-            }else {break;}
-            //右遍历
-            if (++right <= matrix.length -1 && matrix[i][right] == 0){
-            }else {break;}
-            //上遍历
-            if (--up >= 0 && matrix[up][j] == 0){
-            }else {break;}
-            //下遍历
-            if (++down <= matrix.length -1 && matrix[down][j] == 0){
-            }else {break;}
-            count++;
-        }
-        return count;
-    }
+
 }

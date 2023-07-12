@@ -1,9 +1,12 @@
-package com.hmdp.service;
+package com.tl.dianping.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.hmdp.dto.LoginFormDTO;
-import com.hmdp.dto.Result;
-import com.hmdp.entity.User;
+import com.tl.dianping.dto.LoginFormDTO;
+import com.tl.dianping.dto.Result;
+import com.tl.dianping.entity.User;
+import com.tl.dianping.dto.LoginFormDTO;
+import com.tl.dianping.dto.Result;
+import com.tl.dianping.entity.User;
 
 import javax.servlet.http.HttpSession;
 
@@ -12,8 +15,6 @@ import javax.servlet.http.HttpSession;
  *  服务类
  * </p>
  *
- * @author 虎哥
- * @since 2021-12-22
  */
 public interface IUserService extends IService<User> {
 

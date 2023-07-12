@@ -1,13 +1,13 @@
-package com.hmdp.controller;
+package com.tl.dianping.controller;
 
 
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.hmdp.dto.Result;
-import com.hmdp.dto.UserDTO;
-import com.hmdp.entity.Blog;
-import com.hmdp.service.IBlogService;
-import com.hmdp.utils.SystemConstants;
-import com.hmdp.utils.UserHolder;
+import com.tl.dianping.dto.Result;
+import com.tl.dianping.dto.UserDTO;
+import com.tl.dianping.entity.Blog;
+import com.tl.dianping.service.IBlogService;
+import com.tl.dianping.utils.SystemConstants;
+import com.tl.dianping.utils.UserHolder;
 import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;

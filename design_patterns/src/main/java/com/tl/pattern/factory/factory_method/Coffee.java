@@ -1,4 +1,4 @@
-package com.tl.pattern.factory.simple_factory;
+package com.tl.pattern.factory.factory_method;
 
 /**
  * 咖啡类

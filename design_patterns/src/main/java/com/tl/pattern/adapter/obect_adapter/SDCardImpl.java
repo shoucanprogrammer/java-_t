@@ -1,9 +1,9 @@
-package com.tl.pattern.adapter.class_adapter;
+package com.tl.pattern.adapter.obect_adapter;
 
 /**
  * 具体的SD卡
  */
-public class SDCardImpl implements SDCard{
+public class SDCardImpl implements SDCard {
     @Override
     public String readSD() {
         String msg = "SDCard read msg : hello word SD";

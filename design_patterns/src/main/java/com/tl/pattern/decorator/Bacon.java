@@ -1,16 +1,16 @@
 package com.tl.pattern.decorator;
 
 /**
- * 鸡蛋类（具体的装饰者类）
+ * 培根类（具体的装饰者类）
  */
-public class Egg extends Garnish{
+public class Bacon extends Garnish{
 
-    public Egg(FastFood fastFood){
-        super(fastFood,1,"鸡蛋");
+    public Bacon(FastFood fastFood){
+        super(fastFood,2,"培根");
     }
     @Override
     public float cost() {
-        return getPrice() + getFastFood().getPrice();
+        return getPrice() + getFastFood().cost();
     }
 
     @Override

@@ -1,4 +1,4 @@
-package demo2.defore;
+package com.tl.principles.demo2.defore;
 
 /**
  *长方形类

@@ -1,12 +1,13 @@
-package com.tl.pattern.factory.simple_factory;
+package com.tl.pattern.factory.factory_method;
 
 public class CoffeeStore {
-    public Coffee orderCoffee(String type){
-        SimpleCoffeeFactory factory = new SimpleCoffeeFactory();
-        //调用生产咖啡的方法
-        Coffee coffee = factory.createCoffee(type);
+    private CoffeeFactory factory;
 
-        //加配料
+    public void setFactory(CoffeeFactory factory){
+        this.factory = factory;
+    }
+    public Coffee orderCoffee(){
+        Coffee coffee = factory.createCoffee();
         coffee.addMilk();
         coffee.addSugar();
         return coffee;

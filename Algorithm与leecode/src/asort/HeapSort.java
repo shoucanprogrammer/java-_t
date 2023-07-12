@@ -1,4 +1,4 @@
-package sort;
+package asort;
 
 import java.util.Arrays;
 
@@ -37,29 +37,6 @@ public class HeapSort {
     }
 
 
-    public static void heapSort1(int arr[]){
-        int temp = 0;
-
-        for (int i = arr.length/2 -1; i>=0;i--){
-            adjustHeap(arr,i, arr.length);
-        }
-        /*
-        2将堆顶元素与末尾元素交换，将最大元素“沉”到数组末端
-        3重新调整结构，使其满足堆定义，然后继续交换堆顶元素与当前末尾元素，
-        反复执行调整＋交换步骤，直到整个序列有序
-         */
-        for (int j = arr.length-1;j>0;j--){
-            //交换
-            temp = arr[j];
-            arr[j] = arr[0];
-            arr[0] = temp;
-            adjustHeap1(arr,0,j);
-        }
-        System.out.println(Arrays.toString(arr));
-    }
-
-
-
     //将一个数组，调整成一个大顶堆
     /*
     功能举例 int arr[] = {4,6,8,5,9}; => i =1 =>adjustHeap =>得到{4,9,8,5,6}
@@ -89,21 +66,5 @@ public class HeapSort {
     }
 
 
-    public static void adjustHeap1(int arr[], int i,int length) {
-        int temp = arr[i];//先取出当前元素的值，保存在临时变量
-        //开始调整
-        //说明1.k = i*2+1是i结点的左子节点
-        for (int k = i * 2 + 1; k < length; k = k * 2 + 1) {
-            if (k + 1 < length && arr[k] < arr[k + 1]) {
-                k++;
-            }
-            if (arr[k] > temp) {
-                arr[i] = arr[k];
-                i = k;
-            } else {
-                break;
-            }
-        }
-        arr[i] = temp;
-    }
+
 }

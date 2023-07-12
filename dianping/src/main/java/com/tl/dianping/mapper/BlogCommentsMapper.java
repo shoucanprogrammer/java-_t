@@ -1,7 +1,7 @@
-package com.hmdp.mapper;
+package com.tl.dianping.mapper;
 
-import com.hmdp.entity.BlogComments;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.tl.dianping.entity.BlogComments;
 
 /**
  * <p>

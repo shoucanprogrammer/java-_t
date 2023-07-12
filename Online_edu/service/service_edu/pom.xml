@@ -32,8 +32,6 @@
         </dependency>
 
     </dependencies>
-
-
     <build>
         <!--项目打包时会讲java目录中的*.xml文件也进行打包-->
         <resources>

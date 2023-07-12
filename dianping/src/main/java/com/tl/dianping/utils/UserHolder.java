@@ -1,6 +1,7 @@
-package com.hmdp.utils;
+package com.tl.dianping.utils;
 
-import com.hmdp.dto.UserDTO;
+
+import com.tl.dianping.dto.UserDTO;
 
 public class UserHolder {
     private static final ThreadLocal<UserDTO> tl = new ThreadLocal<>();

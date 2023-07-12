@@ -1,27 +1,37 @@
-package com.tl.principles.demo3.before;
+package com.tl.principles.demo3.after;
+
+import com.tl.principles.demo3.before.IntelCpu;
+import com.tl.principles.demo3.before.KingstonMemory;
+import com.tl.principles.demo3.before.XiJieHardDisk;
 
 public class Computer {
-    private XiJieHardDisk hardDisk;
-    private IntelCpu cpu;
-    private KingstonMemory memory;
-    public IntelCpu getCpu() {
+    private HardDisk hardDisk;
+    private Cpu cpu;
+    private Memory memory;
+
+
+    public void setHardDisk(HardDisk hardDisk) {
+        this.hardDisk = hardDisk;
+    }
+
+    public Cpu getCpu() {
         return cpu;
     }
-    public void setCpu(IntelCpu cpu) {
+
+    public void setCpu(Cpu cpu) {
         this.cpu = cpu;
     }
-    public KingstonMemory getMemory() {
+
+    public Memory getMemory() {
         return memory;
     }
-    public void setMemory(KingstonMemory memory) {
+
+    public void setMemory(Memory memory) {
         this.memory = memory;
     }
 
- public XiJieHardDisk getHardDisk() {
+    public HardDisk getHardDisk() {
         return hardDisk;
-    }
-    public void setHardDisk(XiJieHardDisk hardDisk) {
-        this.hardDisk = hardDisk;
     }
     public void run() {
         System.out.println("计算机工作");

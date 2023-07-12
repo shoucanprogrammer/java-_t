@@ -1,10 +1,9 @@
-package com.itheima.principles.demo5;
+package com.tl.principles.demo5;
 
 /**
  * @version v1.0
  * @ClassName: Star
  * @Description: 明星类
- * @Author: 黑马程序员
  */
 public class Star {
     private String name;

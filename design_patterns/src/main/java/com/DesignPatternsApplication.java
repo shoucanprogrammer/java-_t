@@ -1,4 +1,4 @@
-package com.tl.principles.demo1;
+package com;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

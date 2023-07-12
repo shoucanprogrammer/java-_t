@@ -1,4 +1,4 @@
-package com.tl.principles.demo2.after.Quadrilateral;
+package demo2.after.Quadrilateral;
 
 public class RectangleDemo {
     public static void main(String[] args) {

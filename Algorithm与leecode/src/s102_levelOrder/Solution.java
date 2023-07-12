@@ -29,16 +29,18 @@ public class Solution {
         if (root==null){
             return;
         }
-        h++;
+
         if (h>list.size()){
-            ArrayList<Integer> arrayList = new ArrayList<>(root.val);
+            ArrayList<Integer> arrayList = new ArrayList<>();
+            arrayList.add(root.val);
             list.add(arrayList);
         }else {
             List<Integer> list1 = list.get(h-1);
             list1.add(root.val);
         }
-        middle_order(root.left,h);
-        middle_order(root.right,h);
+
+        middle_order(root.left,h+1);
+        middle_order(root.right,h+1);
 
     }
 }

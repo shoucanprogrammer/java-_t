@@ -79,12 +79,11 @@ public class WxApiController {
                 String headimgurl = (String)userInfoMap.get("headimgurl");//头像
 
                 member = new UcenterMember();
-                member.setOpenid(openid);
-                member.setNickname(nickname);
-                member.setAvatar(headimgurl);
-                ucenterMemberService.save(member);
+                member.setOpenid(openid);  //id
+                member.setNickname(nickname);//昵称
+                member.setAvatar(headimgurl); //头像
+                ucenterMemberService.save(member);  //保存到数据库   如果存在openid 更新数据库
             }
-
             //使用jwt根据member对象生成token字符串
             String jwtToken = JwtUtils.getJwtToken(member.getId(), member.getNickname());
             //最后：返回首页面，通过路径传递token字符串

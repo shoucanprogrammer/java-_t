@@ -1,9 +1,9 @@
-package demo2.after.Quadrilateral;
+package com.tl.principles.demo2.after.Quadrilateral;
 
 /**
  * 正方形
  */
-public class Square implements Quadrialteral{
+public class Square implements Quadrialteral {
 
     private double side;
 

@@ -1,10 +1,8 @@
-package com.itheima.pattern.factory.config_factory;
+package com.tl.pattern.factory.config_factory;
 
 /**
- * @version v1.0
- * @ClassName: AmericanCoffee
  * @Description: 没事咖啡
- * @Author: 黑马程序员
+
  */
 public class AmericanCoffee extends Coffee {
 

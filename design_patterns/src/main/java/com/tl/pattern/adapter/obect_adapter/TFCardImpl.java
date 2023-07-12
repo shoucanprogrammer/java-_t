@@ -1,9 +1,9 @@
-package com.tl.pattern.adapter.class_adapter;
+package com.tl.pattern.adapter.obect_adapter;
 
 /**
  * 适配者类
  */
-public class TFCardImpl implements TFCard{
+public class TFCardImpl implements TFCard {
 
     @Override
     public String readTF() {

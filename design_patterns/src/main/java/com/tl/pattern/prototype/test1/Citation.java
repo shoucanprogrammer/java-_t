@@ -1,6 +1,8 @@
-package com.tl.pattern.prototype.test;
+package com.tl.pattern.prototype.test1;
 
-public class Citation implements Cloneable {
+import java.io.Serializable;
+
+public class Citation implements Cloneable , Serializable {
 
     private Student student;
 

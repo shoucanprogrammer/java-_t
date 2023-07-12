@@ -1,6 +1,9 @@
-package com.tl.principles.demo4.before;
+package com.tl.principles.demo4.after;
 
-public class HeimaSafetyDoor implements SafetyDoor{
+import com.tl.principles.demo4.before.SafetyDoor;
+
+public class HeimaSafetyDoor implements AntiTheft,Fireproof,WaterProof {
+
 
     @Override
     public void antiTheft() {
@@ -8,12 +11,12 @@ public class HeimaSafetyDoor implements SafetyDoor{
     }
 
     @Override
-    public void fireProof() {
+    public void fireproof() {
         System.out.println("防活");
     }
 
     @Override
-    public void waterProof() {
+    public void waterproof() {
         System.out.println("防水");
     }
 }

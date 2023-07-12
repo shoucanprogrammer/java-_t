@@ -1,4 +1,4 @@
-package com.tl.pattern.factory.static_factory.simple_factory;
+package com.tl.pattern.factory.simple_factory;
 
 public class SimpleCoffeeFactory {
     public Coffee createCoffee(String type){

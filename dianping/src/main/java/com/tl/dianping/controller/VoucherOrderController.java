@@ -1,12 +1,12 @@
-package com.hmdp.controller;
+package com.tl.dianping.controller;
 
 
-import com.hmdp.dto.Result;
-import com.hmdp.service.IVoucherOrderService;
+import com.tl.dianping.dto.Result;
+import com.tl.dianping.service.IVoucherOrderService;
+import io.swagger.annotations.ApiImplicitParam;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.Resource;
@@ -24,7 +24,7 @@ public class VoucherOrderController {
 
     @Resource
     private IVoucherOrderService voucherOrderService;
-
+    @ApiImplicitParam(name = "authorization", required = false,paramType = "header",dataType = "String")
     @PostMapping("seckill/{id}")
     public Result seckillVoucher(@PathVariable("id") Long voucherId) {
         return voucherOrderService.seckillVoucher(voucherId);

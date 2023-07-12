@@ -1,18 +1,20 @@
-package com.hmdp.service;
+package com.tl.dianping.service;
 
-import com.hmdp.dto.Result;
-import com.hmdp.entity.VoucherOrder;
 import com.baomidou.mybatisplus.extension.service.IService;
+import com.tl.dianping.dto.Result;
+import com.tl.dianping.entity.VoucherOrder;
 
 /**
  * <p>
  *  服务类
  * </p>
  *
- * @author 虎哥
- * @since 2021-12-22
  */
 public interface IVoucherOrderService extends IService<VoucherOrder> {
 
     Result seckillVoucher(Long voucherId);
+
+    Result createVoucherOrder(Long voucherId);
+
+    void createVoucherOrder(VoucherOrder voucherOrder);
 }
