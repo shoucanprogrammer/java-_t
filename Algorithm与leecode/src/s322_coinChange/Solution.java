@@ -7,7 +7,7 @@ import java.util.Arrays;
 public class Solution {
     @Test
     public void test(){
-        coinChange(new int[]{2},11);
+        coinChange(new int[]{1, 2, 5},11);
     }
     public int coinChange(int[] coins, int amount) {
         int max = amount + 1;
@@ -20,7 +20,7 @@ public class Solution {
                     dp[j] = Math.min(dp[j],dp[j-coins[i]]+1);
                 }
             }
-
+            int a = 0;
         }
         if( dp[amount]>amount){
                 return -1;

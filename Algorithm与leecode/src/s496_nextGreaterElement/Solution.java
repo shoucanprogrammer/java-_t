@@ -1,33 +1,29 @@
 package s496_nextGreaterElement;
 
+import java.util.ArrayDeque;
 import java.util.Arrays;
+import java.util.Deque;
+import java.util.HashMap;
 
 public class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int n1 = nums1.length;
-        int n2 = nums2.length;
-        int[] ans = new int[n1];
-        Arrays.fill(ans,-1);
-
-        for (int i = 0; i < n1; i++){
-            boolean fla = true;
-            for (int j = 0; j < n2; j++){
-                if (nums2[j] == nums1[i]){
-                    for (int k = j + 1; k < n2; k++){
-                        if (nums1[i] < nums2[k]){
-                            ans[i] = nums2[k];
-                            fla = false;
-                            break;
-                        }
-
-                    }
-
-                }
-                if (!fla){
-                    break;
-                }
+        int n = nums1.length;
+        int[] res = new int[n];
+        Arrays.fill(res,-1);
+        HashMap<Integer, Integer> map = new HashMap<>();
+        Deque<Integer> deque = new ArrayDeque<>();
+        for (int i = 0; i < nums2.length; i++) {
+            int num = nums2[i];
+            while (!deque.isEmpty() && nums2[deque.peek()] < num){
+                Integer pop = deque.pop();
+               map.put(nums2[pop],num);
             }
+            deque.push(i);
         }
-        return ans;
+        for (int i = 0; i < n; i++){
+            res[i] = map.containsKey(nums1[i]) ? map.get(nums1[i]) : -1;
+        }
+
+        return res;
     }
 }
